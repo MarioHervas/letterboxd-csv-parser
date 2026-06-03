@@ -1,0 +1,9 @@
+Usuarios: 2
+Películas únicas (con metadata): 881
+Interacciones totales: 1012
+Media películas por usuario: 506.0
+Min películas por usuario: 382
+Max películas por usuario: 630
+Nanogéneros únicos: 0
+Temáticas únicas: 0
+Géneros TMDB únicos: 19

@@ -1,0 +1,1013 @@
+user_idx,movie_idx,weight,user_id,movie_title
+0,66,0.018773,letterboxd-mariohervas-2026-03-04-17-51-utc,avatar: the way of water
+0,816,0.022838,letterboxd-mariohervas-2026-03-04-17-51-utc,triangle of sadness
+0,254,0.030451,letterboxd-mariohervas-2026-03-04-17-51-utc,get out
+0,628,0.034257,letterboxd-mariohervas-2026-03-04-17-51-utc,the batman
+0,832,0.026718,letterboxd-mariohervas-2026-03-04-17-51-utc,us
+0,580,0.038273,letterboxd-mariohervas-2026-03-04-17-51-utc,sorry to bother you
+0,353,0.027235,letterboxd-mariohervas-2026-03-04-17-51-utc,knives out
+0,727,0.024125,letterboxd-mariohervas-2026-03-04-17-51-utc,the mule
+0,251,0.029246,letterboxd-mariohervas-2026-03-04-17-51-utc,game night
+0,149,0.029246,letterboxd-mariohervas-2026-03-04-17-51-utc,creep
+0,723,0.025206,letterboxd-mariohervas-2026-03-04-17-51-utc,the menu
+0,471,0.0337,letterboxd-mariohervas-2026-03-04-17-51-utc,oldboy
+0,710,0.0337,letterboxd-mariohervas-2026-03-04-17-51-utc,the lighthouse
+0,572,0.029487,letterboxd-mariohervas-2026-03-04-17-51-utc,sleep tight
+0,94,0.029649,letterboxd-mariohervas-2026-03-04-17-51-utc,black swan
+0,518,0.025414,letterboxd-mariohervas-2026-03-04-17-51-utc,ready or not
+0,513,0.038225,letterboxd-mariohervas-2026-03-04-17-51-utc,puss in boots: the last wish
+0,31,0.034071,letterboxd-mariohervas-2026-03-04-17-51-utc,aftersun
+0,509,0.021294,letterboxd-mariohervas-2026-03-04-17-51-utc,prison 77
+0,316,0.030058,letterboxd-mariohervas-2026-03-04-17-51-utc,infinity pool
+0,836,0.025835,letterboxd-mariohervas-2026-03-04-17-51-utc,venus
+0,734,0.034541,letterboxd-mariohervas-2026-03-04-17-51-utc,the northman
+0,438,0.034636,letterboxd-mariohervas-2026-03-04-17-51-utc,mother!
+0,625,0.026845,letterboxd-mariohervas-2026-03-04-17-51-utc,the autopsy of jane doe
+0,547,0.032902,letterboxd-mariohervas-2026-03-04-17-51-utc,scream vi
+0,347,0.044564,letterboxd-mariohervas-2026-03-04-17-51-utc,kill bill: vol. 1
+0,460,0.045551,letterboxd-mariohervas-2026-03-04-17-51-utc,nope
+0,134,0.025655,letterboxd-mariohervas-2026-03-04-17-51-utc,citizenfour
+0,217,0.036016,letterboxd-mariohervas-2026-03-04-17-51-utc,evil dead rise
+0,79,0.021094,letterboxd-mariohervas-2026-03-04-17-51-utc,beau is afraid
+0,585,0.041303,letterboxd-mariohervas-2026-03-04-17-51-utc,spider-man: across the spider-verse
+0,665,0.030074,letterboxd-mariohervas-2026-03-04-17-51-utc,the flash
+0,279,0.031421,letterboxd-mariohervas-2026-03-04-17-51-utc,harry potter and the chamber of secrets
+0,286,0.037706,letterboxd-mariohervas-2026-03-04-17-51-utc,harry potter and the prisoner of azkaban
+0,476,0.025414,letterboxd-mariohervas-2026-03-04-17-51-utc,operation fortune: ruse de guerre
+0,282,0.03833,letterboxd-mariohervas-2026-03-04-17-51-utc,harry potter and the goblet of fire
+0,122,0.031942,letterboxd-mariohervas-2026-03-04-17-51-utc,captain voyeur
+0,284,0.038647,letterboxd-mariohervas-2026-03-04-17-51-utc,harry potter and the order of the phoenix
+0,283,0.032206,letterboxd-mariohervas-2026-03-04-17-51-utc,harry potter and the half-blood prince
+0,280,0.04546,letterboxd-mariohervas-2026-03-04-17-51-utc,harry potter and the deathly hallows: part 1
+0,427,0.04546,letterboxd-mariohervas-2026-03-04-17-51-utc,mission: impossible – dead reckoning
+0,243,0.052097,letterboxd-mariohervas-2026-03-04-17-51-utc,following
+0,414,0.052097,letterboxd-mariohervas-2026-03-04-17-51-utc,memento
+0,78,0.058609,letterboxd-mariohervas-2026-03-04-17-51-utc,batman begins
+0,744,0.05224,letterboxd-mariohervas-2026-03-04-17-51-utc,the prestige
+0,648,0.05224,letterboxd-mariohervas-2026-03-04-17-51-utc,the dark knight
+0,314,0.058931,letterboxd-mariohervas-2026-03-04-17-51-utc,inception
+0,649,0.065479,letterboxd-mariohervas-2026-03-04-17-51-utc,the dark knight rises
+0,323,0.065479,letterboxd-mariohervas-2026-03-04-17-51-utc,interstellar
+0,190,0.045961,letterboxd-mariohervas-2026-03-04-17-51-utc,dunkirk
+0,479,0.052671,letterboxd-mariohervas-2026-03-04-17-51-utc,oppenheimer
+0,233,0.05958,letterboxd-mariohervas-2026-03-04-17-51-utc,fight club
+0,67,0.034869,letterboxd-mariohervas-2026-03-04-17-51-utc,b.i.b.l.e. - the documentary
+0,606,0.04895,letterboxd-mariohervas-2026-03-04-17-51-utc,talk to me
+0,281,0.042073,letterboxd-mariohervas-2026-03-04-17-51-utc,harry potter and the deathly hallows: part 2
+0,88,0.049219,letterboxd-mariohervas-2026-03-04-17-51-utc,beyond the infinite two minutes
+0,564,0.014063,letterboxd-mariohervas-2026-03-04-17-51-utc,siege (asedio)
+0,421,0.035157,letterboxd-mariohervas-2026-03-04-17-51-utc,midsommar
+0,429,0.01414,letterboxd-mariohervas-2026-03-04-17-51-utc,moby & the void pacific choir: are you lost in the world like me
+0,20,0.042536,letterboxd-mariohervas-2026-03-04-17-51-utc,a prayer before dawn
+0,132,0.042536,letterboxd-mariohervas-2026-03-04-17-51-utc,circus maximus
+0,152,0.035544,letterboxd-mariohervas-2026-03-04-17-51-utc,cruising
+0,455,0.042653,letterboxd-mariohervas-2026-03-04-17-51-utc,no hard feelings
+0,853,0.04277,letterboxd-mariohervas-2026-03-04-17-51-utc,whateverest
+0,829,0.035642,letterboxd-mariohervas-2026-03-04-17-51-utc,under the silver lake
+0,833,0.042887,letterboxd-mariohervas-2026-03-04-17-51-utc,us and them
+0,242,0.042887,letterboxd-mariohervas-2026-03-04-17-51-utc,flux gourmet
+0,398,0.050035,letterboxd-mariohervas-2026-03-04-17-51-utc,mandy
+0,475,0.035739,letterboxd-mariohervas-2026-03-04-17-51-utc,only god forgives
+0,229,0.028591,letterboxd-mariohervas-2026-03-04-17-51-utc,fear and desire
+0,348,0.035739,letterboxd-mariohervas-2026-03-04-17-51-utc,killer's kiss
+0,704,0.035739,letterboxd-mariohervas-2026-03-04-17-51-utc,the killing
+0,491,0.057183,letterboxd-mariohervas-2026-03-04-17-51-utc,paths of glory
+0,582,0.057183,letterboxd-mariohervas-2026-03-04-17-51-utc,spartacus
+0,382,0.021444,letterboxd-mariohervas-2026-03-04-17-51-utc,lolita
+0,185,0.050035,letterboxd-mariohervas-2026-03-04-17-51-utc,dr. strangelove or: how i learned to stop worrying and love the bomb
+0,7,0.064331,letterboxd-mariohervas-2026-03-04-17-51-utc,2001: a space odyssey
+0,15,0.050035,letterboxd-mariohervas-2026-03-04-17-51-utc,a clockwork orange
+0,76,0.057183,letterboxd-mariohervas-2026-03-04-17-51-utc,barry lyndon
+0,759,0.057183,letterboxd-mariohervas-2026-03-04-17-51-utc,the shining
+0,248,0.057183,letterboxd-mariohervas-2026-03-04-17-51-utc,full metal jacket
+0,219,0.071479,letterboxd-mariohervas-2026-03-04-17-51-utc,eyes wide shut
+0,674,0.05734,letterboxd-mariohervas-2026-03-04-17-51-utc,the great beauty
+0,788,0.043123,letterboxd-mariohervas-2026-03-04-17-51-utc,the worst person in the world
+0,104,0.150825,letterboxd-mariohervas-2026-03-04-17-51-utc,boiling point
+0,713,0.050725,letterboxd-mariohervas-2026-03-04-17-51-utc,the lobster
+0,426,0.036431,letterboxd-mariohervas-2026-03-04-17-51-utc,mission: impossible
+0,815,0.029305,letterboxd-mariohervas-2026-03-04-17-51-utc,trash humpers
+0,367,0.036632,letterboxd-mariohervas-2026-03-04-17-51-utc,lamb
+0,230,0.044199,letterboxd-mariohervas-2026-03-04-17-51-utc,fear and loathing in las vegas
+0,806,0.036934,letterboxd-mariohervas-2026-03-04-17-51-utc,too late
+0,609,0.059256,letterboxd-mariohervas-2026-03-04-17-51-utc,teenage mutant ninja turtles: mutant mayhem
+0,362,0.059419,letterboxd-mariohervas-2026-03-04-17-51-utc,la haine
+0,245,0.044686,letterboxd-mariohervas-2026-03-04-17-51-utc,former cult member hears music for the first time
+0,544,0.059745,letterboxd-mariohervas-2026-03-04-17-51-utc,scarface
+0,195,0.044932,letterboxd-mariohervas-2026-03-04-17-51-utc,eer
+0,489,0.045055,letterboxd-mariohervas-2026-03-04-17-51-utc,past lives
+0,627,0.045179,letterboxd-mariohervas-2026-03-04-17-51-utc,the banshees of inisherin
+0,736,0.015101,letterboxd-mariohervas-2026-03-04-17-51-utc,the nun ii
+0,539,0.045427,letterboxd-mariohervas-2026-03-04-17-51-utc,saw
+0,142,0.053144,letterboxd-mariohervas-2026-03-04-17-51-utc,come and see
+0,869,0.045552,letterboxd-mariohervas-2026-03-04-17-51-utc,x
+0,492,0.03796,letterboxd-mariohervas-2026-03-04-17-51-utc,pearl
+0,540,0.045552,letterboxd-mariohervas-2026-03-04-17-51-utc,saw ii
+0,181,0.060902,letterboxd-mariohervas-2026-03-04-17-51-utc,dogville
+0,541,0.023027,letterboxd-mariohervas-2026-03-04-17-51-utc,saw iii
+0,652,0.061573,letterboxd-mariohervas-2026-03-04-17-51-utc,the elephant man
+0,542,0.030956,letterboxd-mariohervas-2026-03-04-17-51-utc,saw iv
+0,108,0.047333,letterboxd-mariohervas-2026-03-04-17-51-utc,bottoms
+0,645,0.048117,letterboxd-mariohervas-2026-03-04-17-51-utc,the creator
+0,543,0.049049,letterboxd-mariohervas-2026-03-04-17-51-utc,saw x
+0,332,0.049049,letterboxd-mariohervas-2026-03-04-17-51-utc,jigsaw
+0,349,0.076241,letterboxd-mariohervas-2026-03-04-17-51-utc,killers of the flower moon
+0,239,0.052815,letterboxd-mariohervas-2026-03-04-17-51-utc,five nights at freddy's
+0,570,0.07042,letterboxd-mariohervas-2026-03-04-17-51-utc,skinamarink
+0,613,0.03521,letterboxd-mariohervas-2026-03-04-17-51-utc,terrifier 2
+0,246,0.036587,letterboxd-mariohervas-2026-03-04-17-51-utc,fractured
+0,23,0.046619,letterboxd-mariohervas-2026-03-04-17-51-utc,a simple favor
+0,75,0.05625,letterboxd-mariohervas-2026-03-04-17-51-utc,barbie
+0,54,0.075,letterboxd-mariohervas-2026-03-04-17-51-utc,another round
+0,261,0.079442,letterboxd-mariohervas-2026-03-04-17-51-utc,godzilla minus one
+0,58,0.02019,letterboxd-mariohervas-2026-03-04-17-51-utc,aquaman and the lost kingdom
+0,48,0.070664,letterboxd-mariohervas-2026-03-04-17-51-utc,anatomy of a fall
+0,228,0.030284,letterboxd-mariohervas-2026-03-04-17-51-utc,father there is only one
+0,363,0.083916,letterboxd-mariohervas-2026-03-04-17-51-utc,la jetée
+0,631,0.096234,letterboxd-mariohervas-2026-03-04-17-51-utc,the beasts
+0,499,0.066847,letterboxd-mariohervas-2026-03-04-17-51-utc,poor things
+0,194,0.04481,letterboxd-mariohervas-2026-03-04-17-51-utc,edge of winter
+0,208,0.072375,letterboxd-mariohervas-2026-03-04-17-51-utc,escape from new york
+0,167,0.0965,letterboxd-mariohervas-2026-03-04-17-51-utc,decision to leave
+0,698,0.06148,letterboxd-mariohervas-2026-03-04-17-51-utc,the informer
+0,188,0.14396,letterboxd-mariohervas-2026-03-04-17-51-utc,dune
+0,494,0.087499,letterboxd-mariohervas-2026-03-04-17-51-utc,perfect days
+0,683,0.089193,letterboxd-mariohervas-2026-03-04-17-51-utc,the holdovers
+0,527,0.064588,letterboxd-mariohervas-2026-03-04-17-51-utc,road house
+0,189,0.116898,letterboxd-mariohervas-2026-03-04-17-51-utc,dune: part two
+0,738,0.09092,letterboxd-mariohervas-2026-03-04-17-51-utc,the others
+0,336,0.09117,letterboxd-mariohervas-2026-03-04-17-51-utc,john wick: chapter 4
+0,270,0.07836,letterboxd-mariohervas-2026-03-04-17-51-utc,gran turismo
+0,288,0.10448,letterboxd-mariohervas-2026-03-04-17-51-utc,heat
+0,56,0.078575,letterboxd-mariohervas-2026-03-04-17-51-utc,anyone but you
+0,340,0.091671,letterboxd-mariohervas-2026-03-04-17-51-utc,judas and the black messiah
+0,192,0.052383,letterboxd-mariohervas-2026-03-04-17-51-utc,eastern promises
+0,701,0.091671,letterboxd-mariohervas-2026-03-04-17-51-utc,the iron claw
+0,151,0.039395,letterboxd-mariohervas-2026-03-04-17-51-utc,crimes of the future
+0,204,0.091922,letterboxd-mariohervas-2026-03-04-17-51-utc,eo
+0,511,0.039395,letterboxd-mariohervas-2026-03-04-17-51-utc,prisoners of the ghostland
+0,861,0.078791,letterboxd-mariohervas-2026-03-04-17-51-utc,willy's wonderland
+0,274,0.065659,letterboxd-mariohervas-2026-03-04-17-51-utc,guns akimbo
+0,154,0.118186,letterboxd-mariohervas-2026-03-04-17-51-utc,custody
+0,141,0.079007,letterboxd-mariohervas-2026-03-04-17-51-utc,collateral
+0,581,0.092174,letterboxd-mariohervas-2026-03-04-17-51-utc,southpaw
+0,506,0.092174,letterboxd-mariohervas-2026-03-04-17-51-utc,prince of darkness
+0,33,0.079223,letterboxd-mariohervas-2026-03-04-17-51-utc,air
+0,186,0.079441,letterboxd-mariohervas-2026-03-04-17-51-utc,dream scenario
+0,307,0.052961,letterboxd-mariohervas-2026-03-04-17-51-utc,i stand alone
+0,634,0.066201,letterboxd-mariohervas-2026-03-04-17-51-utc,the big short
+0,237,0.079441,letterboxd-mariohervas-2026-03-04-17-51-utc,first man
+0,486,0.066201,letterboxd-mariohervas-2026-03-04-17-51-utc,pain and glory
+0,749,0.079441,letterboxd-mariohervas-2026-03-04-17-51-utc,the revenant
+0,87,0.02648,letterboxd-mariohervas-2026-03-04-17-51-utc,belleville cop
+0,5,0.066201,letterboxd-mariohervas-2026-03-04-17-51-utc,1917
+0,337,0.079441,letterboxd-mariohervas-2026-03-04-17-51-utc,jojo rabbit
+0,855,0.052961,letterboxd-mariohervas-2026-03-04-17-51-utc,while at war
+0,548,0.105921,letterboxd-mariohervas-2026-03-04-17-51-utc,se7en
+0,90,0.052961,letterboxd-mariohervas-2026-03-04-17-51-utc,birds of prey (and the fantabulous emancipation of one harley quinn)
+0,685,0.092681,letterboxd-mariohervas-2026-03-04-17-51-utc,the host
+0,669,0.092681,letterboxd-mariohervas-2026-03-04-17-51-utc,the gentlemen
+0,626,0.079441,letterboxd-mariohervas-2026-03-04-17-51-utc,the ballad of buster scruggs
+0,504,0.079441,letterboxd-mariohervas-2026-03-04-17-51-utc,primal fear
+0,202,0.092681,letterboxd-mariohervas-2026-03-04-17-51-utc,enter the void
+0,695,0.105921,letterboxd-mariohervas-2026-03-04-17-51-utc,the hunt
+0,700,0.105921,letterboxd-mariohervas-2026-03-04-17-51-utc,the invisible man
+0,612,0.079441,letterboxd-mariohervas-2026-03-04-17-51-utc,terrifier
+0,653,0.092681,letterboxd-mariohervas-2026-03-04-17-51-utc,the evil dead
+0,216,0.092681,letterboxd-mariohervas-2026-03-04-17-51-utc,evil dead ii
+0,514,0.079441,letterboxd-mariohervas-2026-03-04-17-51-utc,qt8: the first eight
+0,335,0.092681,letterboxd-mariohervas-2026-03-04-17-51-utc,john wick: chapter 3 – parabellum
+0,781,0.079659,letterboxd-mariohervas-2026-03-04-17-51-utc,the unbearable weight of massive talent
+0,59,0.066564,letterboxd-mariohervas-2026-03-04-17-51-utc,argylle
+0,312,0.026626,letterboxd-mariohervas-2026-03-04-17-51-utc,imaginary
+0,393,0.119816,letterboxd-mariohervas-2026-03-04-17-51-utc,mad max: fury road
+0,60,0.079877,letterboxd-mariohervas-2026-03-04-17-51-utc,army of darkness
+0,416,0.09319,letterboxd-mariohervas-2026-03-04-17-51-utc,memories of murder
+0,611,0.039939,letterboxd-mariohervas-2026-03-04-17-51-utc,terminator: dark fate
+0,201,0.09319,letterboxd-mariohervas-2026-03-04-17-51-utc,enemy
+0,748,0.09319,letterboxd-mariohervas-2026-03-04-17-51-utc,the raid
+0,822,0.013313,letterboxd-mariohervas-2026-03-04-17-51-utc,twin murders: the silence of the white city
+0,764,0.080096,letterboxd-mariohervas-2026-03-04-17-51-utc,the spider within: a spider-verse story
+0,848,0.093446,letterboxd-mariohervas-2026-03-04-17-51-utc,watchmen
+0,711,0.080096,letterboxd-mariohervas-2026-03-04-17-51-utc,the lincoln lawyer
+0,155,0.080096,letterboxd-mariohervas-2026-03-04-17-51-utc,da 5 bloods
+0,670,0.120145,letterboxd-mariohervas-2026-03-04-17-51-utc,the godfather
+0,671,0.106795,letterboxd-mariohervas-2026-03-04-17-51-utc,the godfather part ii
+0,497,0.053838,letterboxd-mariohervas-2026-03-04-17-51-utc,pierrot le fou
+0,662,0.080979,letterboxd-mariohervas-2026-03-04-17-51-utc,the first omen
+0,402,0.121802,letterboxd-mariohervas-2026-03-04-17-51-utc,marcel the shell with shoes on
+0,389,0.095779,letterboxd-mariohervas-2026-03-04-17-51-utc,love lies bleeding
+0,431,0.096305,letterboxd-mariohervas-2026-03-04-17-51-utc,monkey man
+0,244,0.096305,letterboxd-mariohervas-2026-03-04-17-51-utc,ford v ferrari
+0,187,0.096305,letterboxd-mariohervas-2026-03-04-17-51-utc,drive
+0,12,0.041274,letterboxd-mariohervas-2026-03-04-17-51-utc,7500
+0,218,0.082547,letterboxd-mariohervas-2026-03-04-17-51-utc,ex machina
+0,95,0.096305,letterboxd-mariohervas-2026-03-04-17-51-utc,blackkklansman
+0,106,0.110063,letterboxd-mariohervas-2026-03-04-17-51-utc,boogie nights
+0,136,0.09817,letterboxd-mariohervas-2026-03-04-17-51-utc,civil war
+0,656,0.085306,letterboxd-mariohervas-2026-03-04-17-51-utc,the fall guy
+0,600,0.12831,letterboxd-mariohervas-2026-03-04-17-51-utc,suspiria
+0,128,0.08601,letterboxd-mariohervas-2026-03-04-17-51-utc,challengers
+0,512,0.090358,letterboxd-mariohervas-2026-03-04-17-51-utc,punch-drunk love
+0,510,0.120477,letterboxd-mariohervas-2026-03-04-17-51-utc,prisoners
+0,458,0.111355,letterboxd-mariohervas-2026-03-04-17-51-utc,nocturnal animals
+0,708,0.127263,letterboxd-mariohervas-2026-03-04-17-51-utc,the lego movie
+0,295,0.123912,letterboxd-mariohervas-2026-03-04-17-51-utc,hit man
+0,21,0.10621,letterboxd-mariohervas-2026-03-04-17-51-utc,a quiet place: day one
+0,172,0.10621,letterboxd-mariohervas-2026-03-04-17-51-utc,despicable me 4
+0,790,0.123912,letterboxd-mariohervas-2026-03-04-17-51-utc,the zone of interest
+0,741,0.089239,letterboxd-mariohervas-2026-03-04-17-51-utc,the party
+0,831,0.143174,letterboxd-mariohervas-2026-03-04-17-51-utc,upon entry
+0,678,0.071981,letterboxd-mariohervas-2026-03-04-17-51-utc,the guernsey literary & potato peel pie society
+0,223,0.144356,letterboxd-mariohervas-2026-03-04-17-51-utc,fallen leaves
+0,707,0.072575,letterboxd-mariohervas-2026-03-04-17-51-utc,the last letter from your lover
+0,25,0.146347,letterboxd-mariohervas-2026-03-04-17-51-utc,about time
+0,162,0.073374,letterboxd-mariohervas-2026-03-04-17-51-utc,deadpool & wolverine
+0,407,0.094008,letterboxd-mariohervas-2026-03-04-17-51-utc,maxxxine
+0,359,0.112809,letterboxd-mariohervas-2026-03-04-17-51-utc,la chimera
+0,30,0.131972,letterboxd-mariohervas-2026-03-04-17-51-utc,after hours
+0,299,0.113429,letterboxd-mariohervas-2026-03-04-17-51-utc,how to blow up a pipeline
+0,384,0.151653,letterboxd-mariohervas-2026-03-04-17-51-utc,longlegs
+0,712,0.151653,letterboxd-mariohervas-2026-03-04-17-51-utc,the lives of others
+0,814,0.114052,letterboxd-mariohervas-2026-03-04-17-51-utc,trap
+0,807,0.133792,letterboxd-mariohervas-2026-03-04-17-51-utc,top gun: maverick
+0,83,0.114679,letterboxd-mariohervas-2026-03-04-17-51-utc,before sunrise
+0,57,0.153325,letterboxd-mariohervas-2026-03-04-17-51-utc,apocalypse now
+0,660,0.057497,letterboxd-mariohervas-2026-03-04-17-51-utc,the father
+0,395,0.134159,letterboxd-mariohervas-2026-03-04-17-51-utc,magnolia
+0,2,0.134159,letterboxd-mariohervas-2026-03-04-17-51-utc,12 angry men
+0,272,0.057497,letterboxd-mariohervas-2026-03-04-17-51-utc,guardians of the galaxy vol. 2
+0,776,0.134159,letterboxd-mariohervas-2026-03-04-17-51-utc,the traitor
+0,318,0.057497,letterboxd-mariohervas-2026-03-04-17-51-utc,inherent vice
+0,197,0.057497,letterboxd-mariohervas-2026-03-04-17-51-utc,el crack
+0,198,0.038331,letterboxd-mariohervas-2026-03-04-17-51-utc,el crack dos
+0,379,0.153325,letterboxd-mariohervas-2026-03-04-17-51-utc,little women
+0,725,0.057497,letterboxd-mariohervas-2026-03-04-17-51-utc,the ministry of ungentlemanly warfare
+0,109,0.134527,letterboxd-mariohervas-2026-03-04-17-51-utc,breaking the waves
+0,47,0.115309,letterboxd-mariohervas-2026-03-04-17-51-utc,american psycho
+0,637,0.115309,letterboxd-mariohervas-2026-03-04-17-51-utc,the boss of it all
+0,793,0.096354,letterboxd-mariohervas-2026-03-04-17-51-utc,there will be blood
+0,55,0.154167,letterboxd-mariohervas-2026-03-04-17-51-utc,antichrist
+0,413,0.154167,letterboxd-mariohervas-2026-03-04-17-51-utc,melancholia
+0,467,0.154167,letterboxd-mariohervas-2026-03-04-17-51-utc,nymphomaniac: vol. i
+0,779,0.154167,letterboxd-mariohervas-2026-03-04-17-51-utc,the truman show
+0,294,0.057971,letterboxd-mariohervas-2026-03-04-17-51-utc,highlander
+0,554,0.115942,letterboxd-mariohervas-2026-03-04-17-51-utc,seven samurai
+0,130,0.15459,letterboxd-mariohervas-2026-03-04-17-51-utc,children of men
+0,450,0.077295,letterboxd-mariohervas-2026-03-04-17-51-utc,network
+0,209,0.193237,letterboxd-mariohervas-2026-03-04-17-51-utc,eternal sunshine of the spotless mind
+0,135,0.193768,letterboxd-mariohervas-2026-03-04-17-51-utc,city of god
+0,706,0.136383,letterboxd-mariohervas-2026-03-04-17-51-utc,the kingdom
+0,184,0.136757,letterboxd-mariohervas-2026-03-04-17-51-utc,downfall
+0,36,0.136757,letterboxd-mariohervas-2026-03-04-17-51-utc,alien
+0,37,0.136757,letterboxd-mariohervas-2026-03-04-17-51-utc,alien: romulus
+0,485,0.156293,letterboxd-mariohervas-2026-03-04-17-51-utc,pain & gain
+0,278,0.157152,letterboxd-mariohervas-2026-03-04-17-51-utc,harakiri
+0,156,0.157152,letterboxd-mariohervas-2026-03-04-17-51-utc,dancer in the dark
+0,305,0.118512,letterboxd-mariohervas-2026-03-04-17-51-utc,i hired a contract killer
+0,642,0.122473,letterboxd-mariohervas-2026-03-04-17-51-utc,the coffee table
+0,350,0.122473,letterboxd-mariohervas-2026-03-04-17-51-utc,kinds of kindness
+0,453,0.020468,letterboxd-mariohervas-2026-03-04-17-51-utc,nina
+0,371,0.14367,letterboxd-mariohervas-2026-03-04-17-51-utc,le samouraï
+0,273,0.14367,letterboxd-mariohervas-2026-03-04-17-51-utc,gummo
+0,341,0.103185,letterboxd-mariohervas-2026-03-04-17-51-utc,julien donkey-boy
+0,687,0.165096,letterboxd-mariohervas-2026-03-04-17-51-utc,the human condition i: no greater love
+0,688,0.166004,letterboxd-mariohervas-2026-03-04-17-51-utc,the human condition ii: road to eternity
+0,583,0.146452,letterboxd-mariohervas-2026-03-04-17-51-utc,speak no evil
+0,81,0.125875,letterboxd-mariohervas-2026-03-04-17-51-utc,beetlejuice
+0,82,0.125875,letterboxd-mariohervas-2026-03-04-17-51-utc,beetlejuice beetlejuice
+0,153,0.104895,letterboxd-mariohervas-2026-03-04-17-51-utc,cure
+0,724,0.19037,letterboxd-mariohervas-2026-03-04-17-51-utc,the messiah
+0,771,0.127611,letterboxd-mariohervas-2026-03-04-17-51-utc,the teachers' lounge
+0,342,0.063805,letterboxd-mariohervas-2026-03-04-17-51-utc,jumanji: the next level
+0,588,0.127611,letterboxd-mariohervas-2026-03-04-17-51-utc,spree
+0,231,0.148879,letterboxd-mariohervas-2026-03-04-17-51-utc,feels good man
+0,71,0.085074,letterboxd-mariohervas-2026-03-04-17-51-utc,bad boys for life
+0,772,0.170148,letterboxd-mariohervas-2026-03-04-17-51-utc,the texas chain saw massacre
+0,762,0.063805,letterboxd-mariohervas-2026-03-04-17-51-utc,the social dilemma
+0,602,0.127611,letterboxd-mariohervas-2026-03-04-17-51-utc,symbiopsychotaxiplasm: take one
+0,758,0.170148,letterboxd-mariohervas-2026-03-04-17-51-utc,the shawshank redemption
+0,526,0.127611,letterboxd-mariohervas-2026-03-04-17-51-utc,richard jewell
+0,760,0.191416,letterboxd-mariohervas-2026-03-04-17-51-utc,the skin i live in
+0,502,0.127611,letterboxd-mariohervas-2026-03-04-17-51-utc,possessor
+0,838,0.127611,letterboxd-mariohervas-2026-03-04-17-51-utc,videodrome
+0,133,0.127611,letterboxd-mariohervas-2026-03-04-17-51-utc,citizen kane
+0,813,0.170614,letterboxd-mariohervas-2026-03-04-17-51-utc,transformers one
+0,812,0.128312,letterboxd-mariohervas-2026-03-04-17-51-utc,transformers
+0,824,0.21621,letterboxd-mariohervas-2026-03-04-17-51-utc,twin peaks: the return
+0,412,0.196195,letterboxd-mariohervas-2026-03-04-17-51-utc,megalopolis
+0,369,0.131155,letterboxd-mariohervas-2026-03-04-17-51-utc,late night with the devil
+0,784,0.1326,letterboxd-mariohervas-2026-03-04-17-51-utc,the whale
+0,818,0.088643,letterboxd-mariohervas-2026-03-04-17-51-utc,trouble
+0,339,0.044443,letterboxd-mariohervas-2026-03-04-17-51-utc,joker: folie à deux
+0,638,0.155977,letterboxd-mariohervas-2026-03-04-17-51-utc,the boy and the heron
+0,837,0.157265,letterboxd-mariohervas-2026-03-04-17-51-utc,vertigo
+0,803,0.180224,letterboxd-mariohervas-2026-03-04-17-51-utc,timecrimes
+0,768,0.180718,letterboxd-mariohervas-2026-03-04-17-51-utc,the substance
+0,689,0.181214,letterboxd-mariohervas-2026-03-04-17-51-utc,the human condition iii: a soldier's prayer
+0,705,0.204425,letterboxd-mariohervas-2026-03-04-17-51-utc,the killing of a sacred deer
+0,452,0.158998,letterboxd-mariohervas-2026-03-04-17-51-utc,nimic
+0,91,0.045428,letterboxd-mariohervas-2026-03-04-17-51-utc,black and blue
+0,422,0.136284,letterboxd-mariohervas-2026-03-04-17-51-utc,minari
+0,616,0.158998,letterboxd-mariohervas-2026-03-04-17-51-utc,the act of killing
+0,51,0.158998,letterboxd-mariohervas-2026-03-04-17-51-utc,anima
+0,765,0.136284,letterboxd-mariohervas-2026-03-04-17-51-utc,the steamroller and the violin
+0,32,0.136284,letterboxd-mariohervas-2026-03-04-17-51-utc,"aguirre, the wrath of god"
+0,591,0.204425,letterboxd-mariohervas-2026-03-04-17-51-utc,stalker
+0,703,0.090856,letterboxd-mariohervas-2026-03-04-17-51-utc,the killers
+0,391,0.136284,letterboxd-mariohervas-2026-03-04-17-51-utc,lux æterna
+0,480,0.158998,letterboxd-mariohervas-2026-03-04-17-51-utc,orpheus
+0,505,0.181711,letterboxd-mariohervas-2026-03-04-17-51-utc,primer
+0,313,0.158998,letterboxd-mariohervas-2026-03-04-17-51-utc,incendies
+0,324,0.227139,letterboxd-mariohervas-2026-03-04-17-51-utc,irreversible
+0,205,0.183211,letterboxd-mariohervas-2026-03-04-17-51-utc,eraserhead
+0,751,0.137785,letterboxd-mariohervas-2026-03-04-17-51-utc,the room next door
+0,576,0.092869,letterboxd-mariohervas-2026-03-04-17-51-utc,smile 2
+0,614,0.140069,letterboxd-mariohervas-2026-03-04-17-51-utc,terrifier 3
+0,147,0.141225,letterboxd-mariohervas-2026-03-04-17-51-utc,crash
+0,98,0.211837,letterboxd-mariohervas-2026-03-04-17-51-utc,bliss
+0,321,0.117687,letterboxd-mariohervas-2026-03-04-17-51-utc,insomnia
+0,778,0.117687,letterboxd-mariohervas-2026-03-04-17-51-utc,the trial of the chicago 7
+0,534,0.117687,letterboxd-mariohervas-2026-03-04-17-51-utc,saltburn
+0,320,0.117687,letterboxd-mariohervas-2026-03-04-17-51-utc,inside out 2
+0,265,0.117687,letterboxd-mariohervas-2026-03-04-17-51-utc,"good luck to you, leo grande"
+0,439,0.117687,letterboxd-mariohervas-2026-03-04-17-51-utc,motherless brooklyn
+0,259,0.164762,letterboxd-mariohervas-2026-03-04-17-51-utc,glass onion
+0,835,0.070612,letterboxd-mariohervas-2026-03-04-17-51-utc,venom: the last dance
+0,250,0.164762,letterboxd-mariohervas-2026-03-04-17-51-utc,furiosa: a mad max saga
+0,364,0.047204,letterboxd-mariohervas-2026-03-04-17-51-utc,la joia: bad gyal
+0,767,0.165668,letterboxd-mariohervas-2026-03-04-17-51-utc,the straight story
+0,535,0.142391,letterboxd-mariohervas-2026-03-04-17-51-utc,sans soleil
+0,655,0.166122,letterboxd-mariohervas-2026-03-04-17-51-utc,the fabelmans
+0,238,0.190375,letterboxd-mariohervas-2026-03-04-17-51-utc,first reformed
+0,501,0.118984,letterboxd-mariohervas-2026-03-04-17-51-utc,possession
+0,357,0.142781,letterboxd-mariohervas-2026-03-04-17-51-utc,l'argent
+0,354,0.143173,letterboxd-mariohervas-2026-03-04-17-51-utc,knock at the cabin
+0,345,0.143173,letterboxd-mariohervas-2026-03-04-17-51-utc,juror #2
+0,757,0.168414,letterboxd-mariohervas-2026-03-04-17-51-utc,the seventh seal
+0,405,0.195127,letterboxd-mariohervas-2026-03-04-17-51-utc,matador
+0,615,0.171675,letterboxd-mariohervas-2026-03-04-17-51-utc,the 400 blows
+0,80,0.196738,letterboxd-mariohervas-2026-03-04-17-51-utc,beau travail
+0,481,0.172618,letterboxd-mariohervas-2026-03-04-17-51-utc,out 1
+0,825,0.123976,letterboxd-mariohervas-2026-03-04-17-51-utc,twisters
+0,24,0.148771,letterboxd-mariohervas-2026-03-04-17-51-utc,a woman under the influence
+0,640,0.149179,letterboxd-mariohervas-2026-03-04-17-51-utc,the celebration
+0,258,0.149179,letterboxd-mariohervas-2026-03-04-17-51-utc,gladiator ii
+0,733,0.17452,letterboxd-mariohervas-2026-03-04-17-51-utc,the night of the hunter
+0,171,0.149999,letterboxd-mariohervas-2026-03-04-17-51-utc,deerskin
+0,630,0.176927,letterboxd-mariohervas-2026-03-04-17-51-utc,the beast
+0,858,0.152485,letterboxd-mariohervas-2026-03-04-17-51-utc,wicked
+0,100,0.17986,letterboxd-mariohervas-2026-03-04-17-51-utc,blow out
+0,872,0.155864,letterboxd-mariohervas-2026-03-04-17-51-utc,yojimbo
+0,271,0.15672,letterboxd-mariohervas-2026-03-04-17-51-utc,green room
+0,661,0.211263,letterboxd-mariohervas-2026-03-04-17-51-utc,the first charge of the machete
+0,462,0.135707,letterboxd-mariohervas-2026-03-04-17-51-utc,nosferatu
+0,664,0.217727,letterboxd-mariohervas-2026-03-04-17-51-utc,the flamenco guitar of yerai cortés
+0,579,0.110668,letterboxd-mariohervas-2026-03-04-17-51-utc,sonic the hedgehog 3
+0,862,0.197419,letterboxd-mariohervas-2026-03-04-17-51-utc,wings of desire
+0,809,0.197419,letterboxd-mariohervas-2026-03-04-17-51-utc,totally f***ed up
+0,516,0.22624,letterboxd-mariohervas-2026-03-04-17-51-utc,queer
+0,844,0.170146,letterboxd-mariohervas-2026-03-04-17-51-utc,wallace & gromit: the curse of the were-rabbit
+0,488,0.198503,letterboxd-mariohervas-2026-03-04-17-51-utc,"paris, texas"
+0,651,0.199048,letterboxd-mariohervas-2026-03-04-17-51-utc,the doom generation
+0,291,0.170613,letterboxd-mariohervas-2026-03-04-17-51-utc,heretic
+0,319,0.255919,letterboxd-mariohervas-2026-03-04-17-51-utc,inland empire
+0,845,0.171081,letterboxd-mariohervas-2026-03-04-17-51-utc,wallace & gromit: vengeance most fowl
+0,173,0.199594,letterboxd-mariohervas-2026-03-04-17-51-utc,diabolique
+0,466,0.228733,letterboxd-mariohervas-2026-03-04-17-51-utc,nowhere
+0,18,0.172021,letterboxd-mariohervas-2026-03-04-17-51-utc,a history of violence
+0,256,0.143351,letterboxd-mariohervas-2026-03-04-17-51-utc,ghostland
+0,397,0.172493,letterboxd-mariohervas-2026-03-04-17-51-utc,man bites dog
+0,795,0.230621,letterboxd-mariohervas-2026-03-04-17-51-utc,thief
+0,26,0.289067,letterboxd-mariohervas-2026-03-04-17-51-utc,absurda
+0,241,0.210259,letterboxd-mariohervas-2026-03-04-17-51-utc,flow
+0,639,0.240955,letterboxd-mariohervas-2026-03-04-17-51-utc,the brutalist
+0,842,0.181212,letterboxd-mariohervas-2026-03-04-17-51-utc,vox lux
+0,42,0.211994,letterboxd-mariohervas-2026-03-04-17-51-utc,all that jazz
+0,507,0.181709,letterboxd-mariohervas-2026-03-04-17-51-utc,princess mononoke
+0,338,0.242944,letterboxd-mariohervas-2026-03-04-17-51-utc,joker
+0,444,0.242944,letterboxd-mariohervas-2026-03-04-17-51-utc,mysterious skin
+0,603,0.121805,letterboxd-mariohervas-2026-03-04-17-51-utc,"synecdoche, new york"
+0,304,0.274814,letterboxd-mariohervas-2026-03-04-17-51-utc,i am cuba
+0,180,0.123485,letterboxd-mariohervas-2026-03-04-17-51-utc,dog man
+0,143,0.154357,letterboxd-mariohervas-2026-03-04-17-51-utc,companion
+0,823,0.278604,letterboxd-mariohervas-2026-03-04-17-51-utc,twin peaks: fire walk with me
+0,587,0.186246,letterboxd-mariohervas-2026-03-04-17-51-utc,spirited away
+0,138,0.218481,letterboxd-mariohervas-2026-03-04-17-51-utc,climax
+0,786,0.218481,letterboxd-mariohervas-2026-03-04-17-51-utc,the wild robot
+0,385,0.249692,letterboxd-mariohervas-2026-03-04-17-51-utc,lost highway
+0,449,0.250377,letterboxd-mariohervas-2026-03-04-17-51-utc,neon genesis evangelion: the end of evangelion
+0,211,0.187783,letterboxd-mariohervas-2026-03-04-17-51-utc,evangelion: 1.0 you are (not) alone
+0,212,0.188298,letterboxd-mariohervas-2026-03-04-17-51-utc,evangelion: 2.0 you can (not) advance
+0,737,0.188298,letterboxd-mariohervas-2026-03-04-17-51-utc,the order
+0,213,0.156915,letterboxd-mariohervas-2026-03-04-17-51-utc,evangelion: 3.0 you can (not) redo
+0,13,0.251064,letterboxd-mariohervas-2026-03-04-17-51-utc,a brighter summer day
+0,214,0.189333,letterboxd-mariohervas-2026-03-04-17-51-utc,evangelion: 3.0+1.0 thrice upon a time
+0,592,0.283999,letterboxd-mariohervas-2026-03-04-17-51-utc,state of siege
+0,756,0.253136,letterboxd-mariohervas-2026-03-04-17-51-utc,the seventh continent
+0,423,0.126915,letterboxd-mariohervas-2026-03-04-17-51-utc,mishima: a life in four chapters
+0,673,0.285559,letterboxd-mariohervas-2026-03-04-17-51-utc,the grand budapest hotel
+0,493,0.254527,letterboxd-mariohervas-2026-03-04-17-51-utc,perfect blue
+0,644,0.159953,letterboxd-mariohervas-2026-03-04-17-51-utc,the conversation
+0,474,0.128314,letterboxd-mariohervas-2026-03-04-17-51-utc,one last deal
+0,69,0.096235,letterboxd-mariohervas-2026-03-04-17-51-utc,babygirl
+0,641,0.096499,letterboxd-mariohervas-2026-03-04-17-51-utc,the childhood of a leader
+0,798,0.192999,letterboxd-mariohervas-2026-03-04-17-51-utc,three colours: blue
+0,800,0.225783,letterboxd-mariohervas-2026-03-04-17-51-utc,three colours: white
+0,799,0.226402,letterboxd-mariohervas-2026-03-04-17-51-utc,three colours: red
+0,726,0.162604,letterboxd-mariohervas-2026-03-04-17-51-utc,the monkey
+0,309,0.260881,letterboxd-mariohervas-2026-03-04-17-51-utc,i'm still here
+0,144,0.228897,letterboxd-mariohervas-2026-03-04-17-51-utc,conclave
+0,170,0.196736,letterboxd-mariohervas-2026-03-04-17-51-utc,deep red
+0,62,0.295104,letterboxd-mariohervas-2026-03-04-17-51-utc,arrival
+0,840,0.065758,letterboxd-mariohervas-2026-03-04-17-51-utc,vivarium
+0,105,0.197275,letterboxd-mariohervas-2026-03-04-17-51-utc,bones and all
+0,536,0.296725,letterboxd-mariohervas-2026-03-04-17-51-utc,satantango
+0,451,0.265205,letterboxd-mariohervas-2026-03-04-17-51-utc,nickel boys
+0,16,0.198904,letterboxd-mariohervas-2026-03-04-17-51-utc,a complete unknown
+0,435,0.265932,letterboxd-mariohervas-2026-03-04-17-51-utc,moonlight
+0,361,0.099725,letterboxd-mariohervas-2026-03-04-17-51-utc,la cocina
+0,446,0.233329,letterboxd-mariohervas-2026-03-04-17-51-utc,napoleon
+0,107,0.233329,letterboxd-mariohervas-2026-03-04-17-51-utc,bottle rocket
+0,667,0.200545,letterboxd-mariohervas-2026-03-04-17-51-utc,the fountainhead
+0,118,0.268127,letterboxd-mariohervas-2026-03-04-17-51-utc,caché
+0,770,0.134431,letterboxd-mariohervas-2026-03-04-17-51-utc,the taste of things
+0,53,0.302471,letterboxd-mariohervas-2026-03-04-17-51-utc,anora
+0,666,0.2359,letterboxd-mariohervas-2026-03-04-17-51-utc,the florida project
+0,123,0.27034,letterboxd-mariohervas-2026-03-04-17-51-utc,carlito's way
+0,289,0.168962,letterboxd-mariohervas-2026-03-04-17-51-utc,here
+0,532,0.203869,letterboxd-mariohervas-2026-03-04-17-51-utc,rushmore
+0,521,0.2385,letterboxd-mariohervas-2026-03-04-17-51-utc,red rocket
+0,827,0.204989,letterboxd-mariohervas-2026-03-04-17-51-utc,uncle boonmee who can recall his past lives
+0,785,0.239154,letterboxd-mariohervas-2026-03-04-17-51-utc,the white ribbon
+0,743,0.273319,letterboxd-mariohervas-2026-03-04-17-51-utc,the piano teacher
+0,380,0.23981,letterboxd-mariohervas-2026-03-04-17-51-utc,live flesh
+0,330,0.23981,letterboxd-mariohervas-2026-03-04-17-51-utc,"jeanne dielman, 23, quai du commerce, 1080 bruxelles"
+0,654,0.241789,letterboxd-mariohervas-2026-03-04-17-51-utc,the executioner
+0,388,0.17318,letterboxd-mariohervas-2026-03-04-17-51-utc,love exposure
+0,418,0.207817,letterboxd-mariohervas-2026-03-04-17-51-utc,mickey 17
+0,226,0.242453,letterboxd-mariohervas-2026-03-04-17-51-utc,fantastic mr. fox
+0,436,0.208387,letterboxd-mariohervas-2026-03-04-17-51-utc,moonrise kingdom
+0,777,0.347311,letterboxd-mariohervas-2026-03-04-17-51-utc,the tree of life
+0,595,0.243785,letterboxd-mariohervas-2026-03-04-17-51-utc,sunset boulevard
+0,519,0.243785,letterboxd-mariohervas-2026-03-04-17-51-utc,rear window
+0,70,0.244454,letterboxd-mariohervas-2026-03-04-17-51-utc,babylon
+0,352,0.210107,letterboxd-mariohervas-2026-03-04-17-51-utc,kneecap
+0,850,0.175089,letterboxd-mariohervas-2026-03-04-17-51-utc,we're all going to the world's fair
+0,222,0.212422,letterboxd-mariohervas-2026-03-04-17-51-utc,fallen angels
+0,139,0.212422,letterboxd-mariohervas-2026-03-04-17-51-utc,cloud
+0,715,0.251244,letterboxd-mariohervas-2026-03-04-17-51-utc,the lord of the rings: the fellowship of the ring
+0,717,0.257516,letterboxd-mariohervas-2026-03-04-17-51-utc,the lord of the rings: the two towers
+0,102,0.261067,letterboxd-mariohervas-2026-03-04-17-51-utc,blue velvet
+0,302,0.262502,letterboxd-mariohervas-2026-03-04-17-51-utc,how to make millions before grandma dies
+0,846,0.263222,letterboxd-mariohervas-2026-03-04-17-51-utc,warfare
+0,92,0.150413,letterboxd-mariohervas-2026-03-04-17-51-utc,black bag
+0,207,0.15207,letterboxd-mariohervas-2026-03-04-17-51-utc,escape
+0,860,0.266123,letterboxd-mariohervas-2026-03-04-17-51-utc,wild at heart
+0,633,0.228731,letterboxd-mariohervas-2026-03-04-17-51-utc,the big lebowski
+0,604,0.229358,letterboxd-mariohervas-2026-03-04-17-51-utc,take out
+0,311,0.076873,letterboxd-mariohervas-2026-03-04-17-51-utc,ihostage
+0,72,0.231886,letterboxd-mariohervas-2026-03-04-17-51-utc,badlands
+0,160,0.236376,letterboxd-mariohervas-2026-03-04-17-51-utc,days of heaven
+0,801,0.198605,letterboxd-mariohervas-2026-03-04-17-51-utc,thunderbolts*
+0,365,0.359454,letterboxd-mariohervas-2026-03-04-17-51-utc,la la land
+0,117,0.080759,letterboxd-mariohervas-2026-03-04-17-51-utc,bullet train explosion
+0,110,0.26886,letterboxd-mariohervas-2026-03-04-17-51-utc,breathless
+0,742,0.31367,letterboxd-mariohervas-2026-03-04-17-51-utc,the phoenician scheme
+0,589,0.184724,letterboxd-mariohervas-2026-03-04-17-51-utc,spring breakers
+0,568,0.419059,letterboxd-mariohervas-2026-03-04-17-51-utc,sinners
+0,17,0.280908,letterboxd-mariohervas-2026-03-04-17-51-utc,a girl walks home alone at night
+0,442,0.475939,letterboxd-mariohervas-2026-03-04-17-51-utc,mulholland drive
+0,598,0.286347,letterboxd-mariohervas-2026-03-04-17-51-utc,superman
+0,496,0.144751,letterboxd-mariohervas-2026-03-04-17-51-utc,pickpocket
+0,68,0.243243,letterboxd-mariohervas-2026-03-04-17-51-utc,babies don't come with instructions
+0,718,0.291891,letterboxd-mariohervas-2026-03-04-17-51-utc,the marching band
+0,617,0.195128,letterboxd-mariohervas-2026-03-04-17-51-utc,the amateur
+0,169,0.244579,letterboxd-mariohervas-2026-03-04-17-51-utc,deep cover
+0,93,0.2943,letterboxd-mariohervas-2026-03-04-17-51-utc,black dog
+0,487,0.297543,letterboxd-mariohervas-2026-03-04-17-51-utc,paprika
+0,64,0.397813,letterboxd-mariohervas-2026-03-04-17-51-utc,audition
+0,500,0.348086,letterboxd-mariohervas-2026-03-04-17-51-utc,porco rosso
+0,236,0.349999,letterboxd-mariohervas-2026-03-04-17-51-utc,fireworks
+0,482,0.249999,letterboxd-mariohervas-2026-03-04-17-51-utc,outrage
+0,114,0.300822,letterboxd-mariohervas-2026-03-04-17-51-utc,brother
+0,871,0.350959,letterboxd-mariohervas-2026-03-04-17-51-utc,yi yi
+0,292,0.402196,letterboxd-mariohervas-2026-03-04-17-51-utc,high and low
+0,19,0.302475,letterboxd-mariohervas-2026-03-04-17-51-utc,a man escaped
+0,372,0.352887,letterboxd-mariohervas-2026-03-04-17-51-utc,le trou
+0,658,0.252754,letterboxd-mariohervas-2026-03-04-17-51-utc,the fantastic 4: first steps
+0,249,0.304137,letterboxd-mariohervas-2026-03-04-17-51-utc,funny games
+0,183,0.408862,letterboxd-mariohervas-2026-03-04-17-51-utc,double indemnity
+0,84,0.204431,letterboxd-mariohervas-2026-03-04-17-51-utc,before sunset
+0,220,0.357755,letterboxd-mariohervas-2026-03-04-17-51-utc,f1
+0,327,0.357755,letterboxd-mariohervas-2026-03-04-17-51-utc,it comes at night
+0,578,0.306647,letterboxd-mariohervas-2026-03-04-17-51-utc,some like it hot
+0,301,0.153323,letterboxd-mariohervas-2026-03-04-17-51-utc,how to make a killing
+0,419,0.308332,letterboxd-mariohervas-2026-03-04-17-51-utc,mid90s
+0,73,0.360707,letterboxd-mariohervas-2026-03-04-17-51-utc,band of outsiders
+0,74,0.360707,letterboxd-mariohervas-2026-03-04-17-51-utc,barbarian
+0,852,0.309178,letterboxd-mariohervas-2026-03-04-17-51-utc,weapons
+0,483,0.310026,letterboxd-mariohervas-2026-03-04-17-51-utc,pacifiction
+0,702,0.466315,letterboxd-mariohervas-2026-03-04-17-51-utc,the killer
+0,863,0.363684,letterboxd-mariohervas-2026-03-04-17-51-utc,women on the verge of a nervous breakdown
+0,267,0.367692,letterboxd-mariohervas-2026-03-04-17-51-utc,good will hunting
+0,565,0.367692,letterboxd-mariohervas-2026-03-04-17-51-utc,sing sing
+0,428,0.371743,letterboxd-mariohervas-2026-03-04-17-51-utc,mission: impossible – the final reckoning
+0,406,0.214178,letterboxd-mariohervas-2026-03-04-17-51-utc,materialists
+0,287,0.107677,letterboxd-mariohervas-2026-03-04-17-51-utc,heads of state
+0,728,0.324807,letterboxd-mariohervas-2026-03-04-17-51-utc,the naked gun
+0,597,0.273655,letterboxd-mariohervas-2026-03-04-17-51-utc,superbad
+0,584,0.440254,letterboxd-mariohervas-2026-03-04-17-51-utc,speed racer
+0,3,0.165548,letterboxd-mariohervas-2026-03-04-17-51-utc,12 hour shift
+0,643,0.221944,letterboxd-mariohervas-2026-03-04-17-51-utc,the conjuring: last rites
+0,555,0.173441,letterboxd-mariohervas-2026-03-04-17-51-utc,shang-chi and the legend of the ten rings
+0,157,0.115627,letterboxd-mariohervas-2026-03-04-17-51-utc,dark phoenix
+0,870,0.173441,letterboxd-mariohervas-2026-03-04-17-51-utc,x-men: apocalypse
+0,38,0.173441,letterboxd-mariohervas-2026-03-04-17-51-utc,alita: battle angel
+0,722,0.115627,letterboxd-mariohervas-2026-03-04-17-51-utc,the matrix resurrections
+0,610,0.115627,letterboxd-mariohervas-2026-03-04-17-51-utc,terminator genisys
+0,329,0.174394,letterboxd-mariohervas-2026-03-04-17-51-utc,jackie brown
+0,166,0.232525,letterboxd-mariohervas-2026-03-04-17-51-utc,death proof
+0,787,0.5275,letterboxd-mariohervas-2026-03-04-17-51-utc,the wolf of wall street
+0,381,0.293055,letterboxd-mariohervas-2026-03-04-17-51-utc,"lock, stock and two smoking barrels"
+0,96,0.5275,letterboxd-mariohervas-2026-03-04-17-51-utc,blade runner 2049
+0,263,0.5275,letterboxd-mariohervas-2026-03-04-17-51-utc,gone girl
+0,401,0.117222,letterboxd-mariohervas-2026-03-04-17-51-utc,mank
+0,646,0.293055,letterboxd-mariohervas-2026-03-04-17-51-utc,the curious case of benjamin button
+0,877,0.5275,letterboxd-mariohervas-2026-03-04-17-51-utc,zodiac
+0,417,0.117544,letterboxd-mariohervas-2026-03-04-17-51-utc,men in black: international
+0,632,0.117544,letterboxd-mariohervas-2026-03-04-17-51-utc,the bfg
+0,847,0.470175,letterboxd-mariohervas-2026-03-04-17-51-utc,warrior
+0,679,0.528947,letterboxd-mariohervas-2026-03-04-17-51-utc,the handmaiden
+0,221,0.117544,letterboxd-mariohervas-2026-03-04-17-51-utc,f9
+0,659,0.117544,letterboxd-mariohervas-2026-03-04-17-51-utc,the fate of the furious
+0,520,0.176316,letterboxd-mariohervas-2026-03-04-17-51-utc,red
+0,334,0.293859,letterboxd-mariohervas-2026-03-04-17-51-utc,john wick: chapter 2
+0,841,0.352631,letterboxd-mariohervas-2026-03-04-17-51-utc,vortex
+0,383,0.235087,letterboxd-mariohervas-2026-03-04-17-51-utc,lone survivor
+0,830,0.528947,letterboxd-mariohervas-2026-03-04-17-51-utc,upgrade
+0,346,0.117544,letterboxd-mariohervas-2026-03-04-17-51-utc,justice league
+0,225,0.117544,letterboxd-mariohervas-2026-03-04-17-51-utc,fantastic four
+0,663,0.176316,letterboxd-mariohervas-2026-03-04-17-51-utc,the first purge
+0,457,0.293859,letterboxd-mariohervas-2026-03-04-17-51-utc,no time to die
+0,515,0.176316,letterboxd-mariohervas-2026-03-04-17-51-utc,quantum of solace
+0,804,0.293859,letterboxd-mariohervas-2026-03-04-17-51-utc,titane
+0,262,0.117544,letterboxd-mariohervas-2026-03-04-17-51-utc,godzilla vs. kong
+0,834,0.293859,letterboxd-mariohervas-2026-03-04-17-51-utc,venom
+0,769,0.235087,letterboxd-mariohervas-2026-03-04-17-51-utc,the suicide squad
+0,285,0.293859,letterboxd-mariohervas-2026-03-04-17-51-utc,harry potter and the philosopher's stone
+0,161,0.293859,letterboxd-mariohervas-2026-03-04-17-51-utc,deadpool
+0,163,0.352631,letterboxd-mariohervas-2026-03-04-17-51-utc,deadpool 2
+0,556,0.293859,letterboxd-mariohervas-2026-03-04-17-51-utc,shazam!
+0,326,0.352631,letterboxd-mariohervas-2026-03-04-17-51-utc,it
+0,177,0.117544,letterboxd-mariohervas-2026-03-04-17-51-utc,divergent
+0,880,0.176316,letterboxd-mariohervas-2026-03-04-17-51-utc,zombieland: double tap
+0,593,0.117544,letterboxd-mariohervas-2026-03-04-17-51-utc,suicide squad
+0,473,0.472758,letterboxd-mariohervas-2026-03-04-17-51-utc,one battle after another
+0,448,0.177284,letterboxd-mariohervas-2026-03-04-17-51-utc,natural born killers
+0,459,0.177284,letterboxd-mariohervas-2026-03-04-17-51-utc,nomadland
+0,865,0.059095,letterboxd-mariohervas-2026-03-04-17-51-utc,wonder woman 1984
+0,29,0.11819,letterboxd-mariohervas-2026-03-04-17-51-utc,after earth
+0,164,0.472758,letterboxd-mariohervas-2026-03-04-17-51-utc,deaf
+0,468,0.295474,letterboxd-mariohervas-2026-03-04-17-51-utc,oblivion
+0,681,0.295474,letterboxd-mariohervas-2026-03-04-17-51-utc,the hobbit: an unexpected journey
+0,682,0.295474,letterboxd-mariohervas-2026-03-04-17-51-utc,the hobbit: the desolation of smaug
+0,343,0.236379,letterboxd-mariohervas-2026-03-04-17-51-utc,jumanji: welcome to the jungle
+0,821,0.11819,letterboxd-mariohervas-2026-03-04-17-51-utc,twilight
+0,50,0.177284,letterboxd-mariohervas-2026-03-04-17-51-utc,angel has fallen
+0,495,0.414798,letterboxd-mariohervas-2026-03-04-17-51-utc,phantom thread
+0,378,0.296285,letterboxd-mariohervas-2026-03-04-17-51-utc,little monsters
+0,235,0.355542,letterboxd-mariohervas-2026-03-04-17-51-utc,fire will come
+0,375,0.355542,letterboxd-mariohervas-2026-03-04-17-51-utc,licorice pizza
+0,720,0.474055,letterboxd-mariohervas-2026-03-04-17-51-utc,the master
+0,85,0.414798,letterboxd-mariohervas-2026-03-04-17-51-utc,before the devil knows you're dead
+0,432,0.533312,letterboxd-mariohervas-2026-03-04-17-51-utc,monster
+0,127,0.357495,letterboxd-mariohervas-2026-03-04-17-51-utc,caught stealing
+0,629,0.536243,letterboxd-mariohervas-2026-03-04-17-51-utc,the battle of algiers
+0,761,0.302022,letterboxd-mariohervas-2026-03-04-17-51-utc,the smashing machine
+0,303,0.427489,letterboxd-mariohervas-2026-03-04-17-51-utc,humanist vampire seeking consenting suicidal person
+0,817,0.18321,letterboxd-mariohervas-2026-03-04-17-51-utc,tron: ares
+0,11,0.433386,letterboxd-mariohervas-2026-03-04-17-51-utc,3-iron
+0,590,0.381792,letterboxd-mariohervas-2026-03-04-17-51-utc,springsteen: deliver me from nowhere
+0,714,0.390252,letterboxd-mariohervas-2026-03-04-17-51-utc,the long walk
+0,594,0.455294,letterboxd-mariohervas-2026-03-04-17-51-utc,sundays
+0,805,0.391323,letterboxd-mariohervas-2026-03-04-17-51-utc,together
+0,624,0.391323,letterboxd-mariohervas-2026-03-04-17-51-utc,the aura
+0,264,0.326102,letterboxd-mariohervas-2026-03-04-17-51-utc,good boy
+0,115,0.46284,letterboxd-mariohervas-2026-03-04-17-51-utc,bugonia
+0,392,0.536256,letterboxd-mariohervas-2026-03-04-17-51-utc,mad god
+0,176,0.539202,letterboxd-mariohervas-2026-03-04-17-51-utc,die my love
+0,465,0.337926,letterboxd-mariohervas-2026-03-04-17-51-utc,now you see me: now you don't
+0,247,0.47831,letterboxd-mariohervas-2026-03-04-17-51-utc,frankenstein
+0,528,0.61497,letterboxd-mariohervas-2026-03-04-17-51-utc,robot dreams
+0,859,0.344469,letterboxd-mariohervas-2026-03-04-17-51-utc,wicked: for good
+0,562,0.487571,letterboxd-mariohervas-2026-03-04-17-51-utc,shutter island
+0,456,0.487571,letterboxd-mariohervas-2026-03-04-17-51-utc,no other choice
+0,61,0.421367,letterboxd-mariohervas-2026-03-04-17-51-utc,aro berria
+0,240,0.214176,letterboxd-mariohervas-2026-03-04-17-51-utc,five nights at freddy's 2
+0,729,0.358921,letterboxd-mariohervas-2026-03-04-17-51-utc,the naked gun: from the files of police squad!
+0,552,0.291097,letterboxd-mariohervas-2026-03-04-17-51-utc,sentimental value
+0,810,0.583791,letterboxd-mariohervas-2026-03-04-17-51-utc,train dreams
+0,65,0.375004,letterboxd-mariohervas-2026-03-04-17-51-utc,avatar: fire and ash
+0,843,0.525006,letterboxd-mariohervas-2026-03-04-17-51-utc,wake up dead man
+0,34,0.300003,letterboxd-mariohervas-2026-03-04-17-51-utc,airplane!
+0,523,0.52789,letterboxd-mariohervas-2026-03-04-17-51-utc,reflection in a dead diamond
+0,854,0.689965,letterboxd-mariohervas-2026-03-04-17-51-utc,when harry met sally...
+0,210,0.544042,letterboxd-mariohervas-2026-03-04-17-51-utc,eternity
+0,530,0.647846,letterboxd-mariohervas-2026-03-04-17-51-utc,romería
+0,9,0.485884,letterboxd-mariohervas-2026-03-04-17-51-utc,28 years later
+0,10,0.566865,letterboxd-mariohervas-2026-03-04-17-51-utc,28 years later: the bone temple
+0,721,0.485884,letterboxd-mariohervas-2026-03-04-17-51-utc,the mastermind
+0,773,0.728827,letterboxd-mariohervas-2026-03-04-17-51-utc,the thin red line
+0,404,0.816491,letterboxd-mariohervas-2026-03-04-17-51-utc,marty supreme
+0,276,0.654985,letterboxd-mariohervas-2026-03-04-17-51-utc,hamnet
+0,394,0.16646,letterboxd-mariohervas-2026-03-04-17-51-utc,mads
+0,52,0.254525,letterboxd-mariohervas-2026-03-04-17-51-utc,annie hall
+0,399,0.510446,letterboxd-mariohervas-2026-03-04-17-51-utc,manhattan
+0,358,0.085542,letterboxd-mariohervas-2026-03-04-17-51-utc,l'eclisse
+0,101,0.77836,letterboxd-mariohervas-2026-03-04-17-51-utc,blow-up
+0,1,0.871982,letterboxd-mariohervas-2026-03-04-17-51-utc,10 things i hate about you
+0,179,0.34975,letterboxd-mariohervas-2026-03-04-17-51-utc,dodes'ka-den
+0,753,0.442005,letterboxd-mariohervas-2026-03-04-17-51-utc,the secret agent
+1,410,0.065479,letterboxd-withloveclau-2026-02-28-12-46-utc,mean girls
+1,379,0.210685,letterboxd-withloveclau-2026-02-28-12-46-utc,little women
+1,188,0.010531,letterboxd-withloveclau-2026-02-28-12-46-utc,dune
+1,353,0.01015,letterboxd-withloveclau-2026-02-28-12-46-utc,knives out
+1,47,0.011233,letterboxd-withloveclau-2026-02-28-12-46-utc,american psycho
+1,586,0.010781,letterboxd-withloveclau-2026-02-28-12-46-utc,spider-man: into the spider-verse
+1,739,0.011451,letterboxd-withloveclau-2026-02-28-12-46-utc,the outsiders
+1,634,0.014413,letterboxd-withloveclau-2026-02-28-12-46-utc,the big short
+1,879,0.013024,letterboxd-withloveclau-2026-02-28-12-46-utc,zombieland
+1,503,0.011681,letterboxd-withloveclau-2026-02-28-12-46-utc,pretty woman
+1,232,0.011745,letterboxd-withloveclau-2026-02-28-12-46-utc,ferris bueller's day off
+1,538,0.015267,letterboxd-withloveclau-2026-02-28-12-46-utc,saving private ryan
+1,575,0.013571,letterboxd-withloveclau-2026-02-28-12-46-utc,slumdog millionaire
+1,650,0.012786,letterboxd-withloveclau-2026-02-28-12-46-utc,the day of the beast
+1,880,0.010989,letterboxd-withloveclau-2026-02-28-12-46-utc,zombieland: double tap
+1,868,0.01102,letterboxd-withloveclau-2026-02-28-12-46-utc,worth
+1,788,0.019084,letterboxd-withloveclau-2026-02-28-12-46-utc,the worst person in the world
+1,215,0.017946,letterboxd-withloveclau-2026-02-28-12-46-utc,everything everywhere all at once
+1,206,0.015919,letterboxd-withloveclau-2026-02-28-12-46-utc,erin brockovich
+1,113,0.023502,letterboxd-withloveclau-2026-02-28-12-46-utc,brokeback mountain
+1,746,0.019752,letterboxd-withloveclau-2026-02-28-12-46-utc,the purple rose of cairo
+1,605,0.017283,letterboxd-withloveclau-2026-02-28-12-46-utc,take the money and run
+1,477,0.017378,letterboxd-withloveclau-2026-02-28-12-46-utc,operation mincemeat
+1,415,0.012584,letterboxd-withloveclau-2026-02-28-12-46-utc,memoirs of a geisha
+1,97,0.015563,letterboxd-withloveclau-2026-02-28-12-46-utc,blinded by the light
+1,618,0.018156,letterboxd-withloveclau-2026-02-28-12-46-utc,the amazing spider-man
+1,619,0.012969,letterboxd-withloveclau-2026-02-28-12-46-utc,the amazing spider-man 2
+1,461,0.025938,letterboxd-withloveclau-2026-02-28-12-46-utc,normal people
+1,875,0.018256,letterboxd-withloveclau-2026-02-28-12-46-utc,zero dark thirty
+1,77,0.010547,letterboxd-withloveclau-2026-02-28-12-46-utc,barton fink
+1,298,0.016083,letterboxd-withloveclau-2026-02-28-12-46-utc,hot summer nights
+1,747,0.016803,letterboxd-withloveclau-2026-02-28-12-46-utc,the queen
+1,86,0.020708,letterboxd-withloveclau-2026-02-28-12-46-utc,belfast
+1,104,0.029583,letterboxd-withloveclau-2026-02-28-12-46-utc,boiling point
+1,124,0.026625,letterboxd-withloveclau-2026-02-28-12-46-utc,carol
+1,178,0.014792,letterboxd-withloveclau-2026-02-28-12-46-utc,do revenge
+1,463,0.014792,letterboxd-withloveclau-2026-02-28-12-46-utc,not okay
+1,518,0.011833,letterboxd-withloveclau-2026-02-28-12-46-utc,ready or not
+1,676,0.011833,letterboxd-withloveclau-2026-02-28-12-46-utc,the great gatsby
+1,368,0.026625,letterboxd-withloveclau-2026-02-28-12-46-utc,land of mine
+1,52,0.029583,letterboxd-withloveclau-2026-02-28-12-46-utc,annie hall
+1,559,0.023667,letterboxd-withloveclau-2026-02-28-12-46-utc,shiva baby
+1,797,0.021109,letterboxd-withloveclau-2026-02-28-12-46-utc,"three billboards outside ebbing, missouri"
+1,182,0.018094,letterboxd-withloveclau-2026-02-28-12-46-utc,don't look up
+1,81,0.01875,letterboxd-withloveclau-2026-02-28-12-46-utc,beetlejuice
+1,517,0.025344,letterboxd-withloveclau-2026-02-28-12-46-utc,queer you are
+1,191,0.012777,letterboxd-withloveclau-2026-02-28-12-46-utc,east of eden
+1,297,0.019165,letterboxd-withloveclau-2026-02-28-12-46-utc,hot fuzz
+1,131,0.01927,letterboxd-withloveclau-2026-02-28-12-46-utc,chungking express
+1,591,0.025764,letterboxd-withloveclau-2026-02-28-12-46-utc,stalker
+1,203,0.01628,letterboxd-withloveclau-2026-02-28-12-46-utc,entergalactic
+1,374,0.022918,letterboxd-withloveclau-2026-02-28-12-46-utc,lethal weapon
+1,252,0.023234,letterboxd-withloveclau-2026-02-28-12-46-utc,gattaca
+1,668,0.026553,letterboxd-withloveclau-2026-02-28-12-46-utc,the front page
+1,296,0.013496,letterboxd-withloveclau-2026-02-28-12-46-utc,holmes & watson: madrid days
+1,146,0.023684,letterboxd-withloveclau-2026-02-28-12-46-utc,cousinhood
+1,819,0.017578,letterboxd-withloveclau-2026-02-28-12-46-utc,turning red
+1,596,0.02461,letterboxd-withloveclau-2026-02-28-12-46-utc,sunshine on leith
+1,460,0.010547,letterboxd-withloveclau-2026-02-28-12-46-utc,nope
+1,105,0.017626,letterboxd-withloveclau-2026-02-28-12-46-utc,bones and all
+1,723,0.014101,letterboxd-withloveclau-2026-02-28-12-46-utc,the menu
+1,49,0.031728,letterboxd-withloveclau-2026-02-28-12-46-utc,anatomy of a murder
+1,328,0.018216,letterboxd-withloveclau-2026-02-28-12-46-utc,it's a wonderful life
+1,434,0.033515,letterboxd-withloveclau-2026-02-28-12-46-utc,monty python's the meaning of life
+1,41,0.033607,letterboxd-withloveclau-2026-02-28-12-46-utc,all quiet on the western front
+1,268,0.029873,letterboxd-withloveclau-2026-02-28-12-46-utc,goodfellas
+1,31,0.037856,letterboxd-withloveclau-2026-02-28-12-46-utc,aftersun
+1,740,0.028223,letterboxd-withloveclau-2026-02-28-12-46-utc,the pale blue eye
+1,636,0.032343,letterboxd-withloveclau-2026-02-28-12-46-utc,the blues brothers
+1,403,0.032343,letterboxd-withloveclau-2026-02-28-12-46-utc,marie antoinette
+1,425,0.0283,letterboxd-withloveclau-2026-02-28-12-46-utc,miss sloane
+1,269,0.016171,letterboxd-withloveclau-2026-02-28-12-46-utc,gosford park
+1,628,0.0283,letterboxd-withloveclau-2026-02-28-12-46-utc,the batman
+1,370,0.024324,letterboxd-withloveclau-2026-02-28-12-46-utc,le cercle rouge
+1,70,0.029976,letterboxd-withloveclau-2026-02-28-12-46-utc,babylon
+1,627,0.030058,letterboxd-withloveclau-2026-02-28-12-46-utc,the banshees of inisherin
+1,433,0.043413,letterboxd-withloveclau-2026-02-28-12-46-utc,monty python and the holy grail
+1,732,0.017365,letterboxd-withloveclau-2026-02-28-12-46-utc,the night of the 12th
+1,754,0.013276,letterboxd-withloveclau-2026-02-28-12-46-utc,the secret life of pets
+1,608,0.046875,letterboxd-withloveclau-2026-02-28-12-46-utc,taxi driver
+1,366,0.042187,letterboxd-withloveclau-2026-02-28-12-46-utc,lady bird
+1,807,0.019537,letterboxd-withloveclau-2026-02-28-12-46-utc,top gun: maverick
+1,321,0.024421,letterboxd-withloveclau-2026-02-28-12-46-utc,insomnia
+1,158,0.029954,letterboxd-withloveclau-2026-02-28-12-46-utc,dark waters
+1,487,0.035332,letterboxd-withloveclau-2026-02-28-12-46-utc,paprika
+1,755,0.025376,letterboxd-withloveclau-2026-02-28-12-46-utc,the seven-per-cent solution
+1,331,0.036915,letterboxd-withloveclau-2026-02-28-12-46-utc,jerry maguire
+1,356,0.056012,letterboxd-withloveclau-2026-02-28-12-46-utc,kramer vs. kramer
+1,585,0.047075,letterboxd-withloveclau-2026-02-28-12-46-utc,spider-man: across the spider-verse
+1,623,0.017701,letterboxd-withloveclau-2026-02-28-12-46-utc,the art of getting by
+1,63,0.04825,letterboxd-withloveclau-2026-02-28-12-46-utc,asteroid city
+1,322,0.03074,letterboxd-withloveclau-2026-02-28-12-46-utc,interiors
+1,455,0.031079,letterboxd-withloveclau-2026-02-28-12-46-utc,no hard feelings
+1,315,0.031335,letterboxd-withloveclau-2026-02-28-12-46-utc,indiana jones and the dial of destiny
+1,107,0.044597,letterboxd-withloveclau-2026-02-28-12-46-utc,bottle rocket
+1,709,0.044597,letterboxd-withloveclau-2026-02-28-12-46-utc,the life aquatic with steve zissou
+1,226,0.044597,letterboxd-withloveclau-2026-02-28-12-46-utc,fantastic mr. fox
+1,647,0.057338,letterboxd-withloveclau-2026-02-28-12-46-utc,the darjeeling limited
+1,752,0.057338,letterboxd-withloveclau-2026-02-28-12-46-utc,the royal tenenbaums
+1,620,0.03833,letterboxd-withloveclau-2026-02-28-12-46-utc,the angels' share
+1,478,0.031942,letterboxd-withloveclau-2026-02-28-12-46-utc,operation varsity blues: the college admissions scandal
+1,680,0.026335,letterboxd-withloveclau-2026-02-28-12-46-utc,the hangover
+1,2,0.0662,letterboxd-withloveclau-2026-02-28-12-46-utc,12 angry men
+1,373,0.04634,letterboxd-withloveclau-2026-02-28-12-46-utc,legally blonde
+1,672,0.059908,letterboxd-withloveclau-2026-02-28-12-46-utc,the graduate
+1,479,0.048021,letterboxd-withloveclau-2026-02-28-12-46-utc,oppenheimer
+1,867,0.01372,letterboxd-withloveclau-2026-02-28-12-46-utc,world of tomorrow episode two: the burden of other people's thoughts
+1,766,0.061741,letterboxd-withloveclau-2026-02-28-12-46-utc,the sting
+1,529,0.020693,letterboxd-withloveclau-2026-02-28-12-46-utc,romeo + juliet
+1,675,0.06208,letterboxd-withloveclau-2026-02-28-12-46-utc,the great escape
+1,741,0.027972,letterboxd-withloveclau-2026-02-28-12-46-utc,the party
+1,601,0.057655,letterboxd-withloveclau-2026-02-28-12-46-utc,sweet bean
+1,574,0.072069,letterboxd-withloveclau-2026-02-28-12-46-utc,sleuth
+1,549,0.043241,letterboxd-withloveclau-2026-02-28-12-46-utc,searching
+1,839,0.064862,letterboxd-withloveclau-2026-02-28-12-46-utc,virgin mountain
+1,34,0.072069,letterboxd-withloveclau-2026-02-28-12-46-utc,airplane!
+1,159,0.064862,letterboxd-withloveclau-2026-02-28-12-46-utc,"dawn breaks, which is no small thing"
+1,551,0.05861,letterboxd-withloveclau-2026-02-28-12-46-utc,sense and sensibility
+1,387,0.032879,letterboxd-withloveclau-2026-02-28-12-46-utc,love & death
+1,99,0.016758,letterboxd-withloveclau-2026-02-28-12-46-utc,blonde
+1,39,0.059299,letterboxd-withloveclau-2026-02-28-12-46-utc,all about my mother
+1,522,0.025694,letterboxd-withloveclau-2026-02-28-12-46-utc,"red, white & royal blue"
+1,486,0.069082,letterboxd-withloveclau-2026-02-28-12-46-utc,pain and glory
+1,758,0.086353,letterboxd-withloveclau-2026-02-28-12-46-utc,the shawshank redemption
+1,702,0.069272,letterboxd-withloveclau-2026-02-28-12-46-utc,the killer
+1,290,0.05296,letterboxd-withloveclau-2026-02-28-12-46-utc,hereditary
+1,791,0.070807,letterboxd-withloveclau-2026-02-28-12-46-utc,theater camp
+1,763,0.062983,letterboxd-withloveclau-2026-02-28-12-46-utc,the social network
+1,416,0.091467,letterboxd-withloveclau-2026-02-28-12-46-utc,memories of murder
+1,44,0.073173,letterboxd-withloveclau-2026-02-28-12-46-utc,alphaville
+1,35,0.037295,letterboxd-withloveclau-2026-02-28-12-46-utc,akira
+1,550,0.056096,letterboxd-withloveclau-2026-02-28-12-46-utc,see how they run
+1,446,0.05625,letterboxd-withloveclau-2026-02-28-12-46-utc,napoleon
+1,325,0.06653,letterboxd-withloveclau-2026-02-28-12-46-utc,isle of dogs
+1,796,0.096354,letterboxd-withloveclau-2026-02-28-12-46-utc,this is england
+1,48,0.067633,letterboxd-withloveclau-2026-02-28-12-46-utc,anatomy of a fall
+1,657,0.049245,letterboxd-withloveclau-2026-02-28-12-46-utc,the family stone
+1,856,0.059094,letterboxd-withloveclau-2026-02-28-12-46-utc,while you were sleeping
+1,782,0.089127,letterboxd-withloveclau-2026-02-28-12-46-utc,the usual suspects
+1,684,0.069321,letterboxd-withloveclau-2026-02-28-12-46-utc,the holiday
+1,573,0.039939,letterboxd-withloveclau-2026-02-28-12-46-utc,sleepless in seattle
+1,119,0.080537,letterboxd-withloveclau-2026-02-28-12-46-utc,call me by your name
+1,826,0.051451,letterboxd-withloveclau-2026-02-28-12-46-utc,tár
+1,534,0.052161,letterboxd-withloveclau-2026-02-28-12-46-utc,saltburn
+1,75,0.094147,letterboxd-withloveclau-2026-02-28-12-46-utc,barbie
+1,257,0.073226,letterboxd-withloveclau-2026-02-28-12-46-utc,"girl, interrupted"
+1,717,0.083686,letterboxd-withloveclau-2026-02-28-12-46-utc,the lord of the rings: the two towers
+1,259,0.062765,letterboxd-withloveclau-2026-02-28-12-46-utc,glass onion
+1,857,0.105183,letterboxd-withloveclau-2026-02-28-12-46-utc,whiplash
+1,683,0.10722,letterboxd-withloveclau-2026-02-28-12-46-utc,the holdovers
+1,6,0.096498,letterboxd-withloveclau-2026-02-28-12-46-utc,"20,000 species of bees"
+1,187,0.085776,letterboxd-withloveclau-2026-02-28-12-46-utc,drive
+1,94,0.075054,letterboxd-withloveclau-2026-02-28-12-46-utc,black swan
+1,783,0.085776,letterboxd-withloveclau-2026-02-28-12-46-utc,the village
+1,744,0.10722,letterboxd-withloveclau-2026-02-28-12-46-utc,the prestige
+1,344,0.096498,letterboxd-withloveclau-2026-02-28-12-46-utc,juno
+1,409,0.075054,letterboxd-withloveclau-2026-02-28-12-46-utc,me and earl and the dying girl
+1,196,0.085776,letterboxd-withloveclau-2026-02-28-12-46-utc,eighth grade
+1,227,0.086011,letterboxd-withloveclau-2026-02-28-12-46-utc,fargo
+1,472,0.053757,letterboxd-withloveclau-2026-02-28-12-46-utc,once in a lifetime
+1,577,0.098097,letterboxd-withloveclau-2026-02-28-12-46-utc,society of the snow
+1,199,0.043599,letterboxd-withloveclau-2026-02-28-12-46-utc,election
+1,148,0.043958,letterboxd-withloveclau-2026-02-28-12-46-utc,"crazy, stupid, love."
+1,377,0.099723,letterboxd-withloveclau-2026-02-28-12-46-utc,little miss sunshine
+1,730,0.099723,letterboxd-withloveclau-2026-02-28-12-46-utc,the name of the rose
+1,494,0.111107,letterboxd-withloveclau-2026-02-28-12-46-utc,perfect days
+1,866,0.066664,letterboxd-withloveclau-2026-02-28-12-46-utc,wonka
+1,489,0.077775,letterboxd-withloveclau-2026-02-28-12-46-utc,past lives
+1,14,0.099996,letterboxd-withloveclau-2026-02-28-12-46-utc,a brighter tomorrow
+1,421,0.078848,letterboxd-withloveclau-2026-02-28-12-46-utc,midsommar
+1,563,0.090607,letterboxd-withloveclau-2026-02-28-12-46-utc,sideways
+1,499,0.104191,letterboxd-withloveclau-2026-02-28-12-46-utc,poor things
+1,528,0.081038,letterboxd-withloveclau-2026-02-28-12-46-utc,robot dreams
+1,508,0.070034,letterboxd-withloveclau-2026-02-28-12-46-utc,priscilla
+1,708,0.058683,letterboxd-withloveclau-2026-02-28-12-46-utc,the lego movie
+1,349,0.059005,letterboxd-withloveclau-2026-02-28-12-46-utc,killers of the flower moon
+1,275,0.09571,letterboxd-withloveclau-2026-02-28-12-46-utc,hairspray
+1,376,0.023993,letterboxd-withloveclau-2026-02-28-12-46-utc,life is beautiful
+1,310,0.073373,letterboxd-withloveclau-2026-02-28-12-46-utc,igby goes down
+1,189,0.122624,letterboxd-withloveclau-2026-02-28-12-46-utc,dune: part two
+1,46,0.074589,letterboxd-withloveclau-2026-02-28-12-46-utc,american fiction
+1,45,0.114363,letterboxd-withloveclau-2026-02-28-12-46-utc,american beauty
+1,510,0.114363,letterboxd-withloveclau-2026-02-28-12-46-utc,prisoners
+1,701,0.127419,letterboxd-withloveclau-2026-02-28-12-46-utc,the iron claw
+1,442,0.064765,letterboxd-withloveclau-2026-02-28-12-46-utc,mulholland drive
+1,774,0.103909,letterboxd-withloveclau-2026-02-28-12-46-utc,the thing
+1,851,0.026049,letterboxd-withloveclau-2026-02-28-12-46-utc,we're the millers
+1,145,0.07836,letterboxd-withloveclau-2026-02-28-12-46-utc,confessions of a teenage drama queen
+1,863,0.117862,letterboxd-withloveclau-2026-02-28-12-46-utc,women on the verge of a nervous breakdown
+1,666,0.130958,letterboxd-withloveclau-2026-02-28-12-46-utc,the florida project
+1,338,0.104767,letterboxd-withloveclau-2026-02-28-12-46-utc,joker
+1,567,0.117862,letterboxd-withloveclau-2026-02-28-12-46-utc,singin' in the rain
+1,62,0.130958,letterboxd-withloveclau-2026-02-28-12-46-utc,arrival
+1,386,0.130958,letterboxd-withloveclau-2026-02-28-12-46-utc,lost in translation
+1,263,0.117862,letterboxd-withloveclau-2026-02-28-12-46-utc,gone girl
+1,745,0.091671,letterboxd-withloveclau-2026-02-28-12-46-utc,the princess diaries
+1,484,0.091671,letterboxd-withloveclau-2026-02-28-12-46-utc,paddington
+1,545,0.104767,letterboxd-withloveclau-2026-02-28-12-46-utc,scott pilgrim vs. the world
+1,719,0.104767,letterboxd-withloveclau-2026-02-28-12-46-utc,the martian
+1,633,0.104767,letterboxd-withloveclau-2026-02-28-12-46-utc,the big lebowski
+1,750,0.117862,letterboxd-withloveclau-2026-02-28-12-46-utc,the rocky horror picture show
+1,411,0.026192,letterboxd-withloveclau-2026-02-28-12-46-utc,mean girls 2
+1,716,0.131678,letterboxd-withloveclau-2026-02-28-12-46-utc,the lord of the rings: the return of the king
+1,715,0.11851,letterboxd-withloveclau-2026-02-28-12-46-utc,the lord of the rings: the fellowship of the ring
+1,566,0.11851,letterboxd-withloveclau-2026-02-28-12-46-utc,sing street
+1,621,0.039503,letterboxd-withloveclau-2026-02-28-12-46-utc,the anthrax attacks: in the shadow of 9/11
+1,677,0.119161,letterboxd-withloveclau-2026-02-28-12-46-utc,the green ray
+1,253,0.03972,letterboxd-withloveclau-2026-02-28-12-46-utc,get a clue
+1,855,0.066382,letterboxd-withloveclau-2026-02-28-12-46-utc,while at war
+1,686,0.134227,letterboxd-withloveclau-2026-02-28-12-46-utc,the house that jack built
+1,454,0.094217,letterboxd-withloveclau-2026-02-28-12-46-utc,no country for old men
+1,539,0.121469,letterboxd-withloveclau-2026-02-28-12-46-utc,saw
+1,792,0.04049,letterboxd-withloveclau-2026-02-28-12-46-utc,thelma & louise
+1,408,0.080979,letterboxd-withloveclau-2026-02-28-12-46-utc,may december
+1,471,0.125528,letterboxd-withloveclau-2026-02-28-12-46-utc,oldboy
+1,40,0.111581,letterboxd-withloveclau-2026-02-28-12-46-utc,all of us strangers
+1,223,0.055943,letterboxd-withloveclau-2026-02-28-12-46-utc,fallen leaves
+1,128,0.057655,letterboxd-withloveclau-2026-02-28-12-46-utc,challengers
+1,696,0.043598,letterboxd-withloveclau-2026-02-28-12-46-utc,the idea of you
+1,876,0.029547,letterboxd-withloveclau-2026-02-28-12-46-utc,zip & zap and the captain's island
+1,112,0.120477,letterboxd-withloveclau-2026-02-28-12-46-utc,bring it on
+1,174,0.080858,letterboxd-withloveclau-2026-02-28-12-46-utc,dick
+1,103,0.097029,letterboxd-withloveclau-2026-02-28-12-46-utc,bodies bodies bodies
+1,589,0.032343,letterboxd-withloveclau-2026-02-28-12-46-utc,spring breakers
+1,694,0.113823,letterboxd-withloveclau-2026-02-28-12-46-utc,the hunger games: the ballad of songbirds & snakes
+1,306,0.147148,letterboxd-withloveclau-2026-02-28-12-46-utc,i saw the tv glow
+1,25,0.13741,letterboxd-withloveclau-2026-02-28-12-46-utc,about time
+1,821,0.034352,letterboxd-withloveclau-2026-02-28-12-46-utc,twilight
+1,390,0.017176,letterboxd-withloveclau-2026-02-28-12-46-utc,"love, divided"
+1,350,0.087784,letterboxd-withloveclau-2026-02-28-12-46-utc,kinds of kindness
+1,121,0.105341,letterboxd-withloveclau-2026-02-28-12-46-utc,camp rock 2: the final jam
+1,635,0.10563,letterboxd-withloveclau-2026-02-28-12-46-utc,the bikeriders
+1,136,0.15888,letterboxd-withloveclau-2026-02-28-12-46-utc,civil war
+1,320,0.124935,letterboxd-withloveclau-2026-02-28-12-46-utc,inside out 2
+1,820,0.143961,letterboxd-withloveclau-2026-02-28-12-46-utc,twelve monkeys
+1,441,0.071981,letterboxd-withloveclau-2026-02-28-12-46-utc,moxie
+1,89,0.162846,letterboxd-withloveclau-2026-02-28-12-46-utc,birdman or (the unexpected virtue of ignorance)
+1,255,0.109161,letterboxd-withloveclau-2026-02-28-12-46-utc,ghost world
+1,56,0.091718,letterboxd-withloveclau-2026-02-28-12-46-utc,anyone but you
+1,697,0.129465,letterboxd-withloveclau-2026-02-28-12-46-utc,the imitation game
+1,129,0.14796,letterboxd-withloveclau-2026-02-28-12-46-utc,chicago
+1,571,0.130176,letterboxd-withloveclau-2026-02-28-12-46-utc,slc punk
+1,731,0.11158,letterboxd-withloveclau-2026-02-28-12-46-utc,the nice guys
+1,557,0.092983,letterboxd-withloveclau-2026-02-28-12-46-utc,sherlock holmes in washington
+1,260,0.09375,letterboxd-withloveclau-2026-02-28-12-46-utc,god help the girl
+1,638,0.075206,letterboxd-withloveclau-2026-02-28-12-46-utc,the boy and the heron
+1,384,0.169678,letterboxd-withloveclau-2026-02-28-12-46-utc,longlegs
+1,153,0.132334,letterboxd-withloveclau-2026-02-28-12-46-utc,cure
+1,814,0.057183,letterboxd-withloveclau-2026-02-28-12-46-utc,trap
+1,603,0.191131,letterboxd-withloveclau-2026-02-28-12-46-utc,"synecdoche, new york"
+1,808,0.172963,letterboxd-withloveclau-2026-02-28-12-46-utc,top secret!
+1,816,0.155866,letterboxd-withloveclau-2026-02-28-12-46-utc,triangle of sadness
+1,546,0.116899,letterboxd-withloveclau-2026-02-28-12-46-utc,scrapper
+1,469,0.156293,letterboxd-withloveclau-2026-02-28-12-46-utc,ocean's eleven
+1,36,0.097683,letterboxd-withloveclau-2026-02-28-12-46-utc,alien
+1,729,0.138643,letterboxd-withloveclau-2026-02-28-12-46-utc,the naked gun: from the files of police squad!
+1,137,0.122473,letterboxd-withloveclau-2026-02-28-12-46-utc,clerks
+1,762,0.102341,letterboxd-withloveclau-2026-02-28-12-46-utc,the social dilemma
+1,864,0.143277,letterboxd-withloveclau-2026-02-28-12-46-utc,won't you be my neighbor?
+1,599,0.163745,letterboxd-withloveclau-2026-02-28-12-46-utc,supersonic
+1,493,0.184719,letterboxd-withloveclau-2026-02-28-12-46-utc,perfect blue
+1,533,0.106051,letterboxd-withloveclau-2026-02-28-12-46-utc,rye lane
+1,561,0.169682,letterboxd-withloveclau-2026-02-28-12-46-utc,show me love
+1,413,0.135168,letterboxd-withloveclau-2026-02-28-12-46-utc,melancholia
+1,293,0.158129,letterboxd-withloveclau-2026-02-28-12-46-utc,high fidelity
+1,437,0.022839,letterboxd-withloveclau-2026-02-28-12-46-utc,morbius
+1,622,0.161191,letterboxd-withloveclau-2026-02-28-12-46-utc,the apprentice
+1,420,0.234089,letterboxd-withloveclau-2026-02-28-12-46-utc,midnight in paris
+1,400,0.234089,letterboxd-withloveclau-2026-02-28-12-46-utc,manhattan murder mystery
+1,399,0.21068,letterboxd-withloveclau-2026-02-28-12-46-utc,manhattan
+1,277,0.21068,letterboxd-withloveclau-2026-02-28-12-46-utc,hannah and her sisters
+1,150,0.187271,letterboxd-withloveclau-2026-02-28-12-46-utc,crimes and misdemeanors
+1,778,0.164762,letterboxd-withloveclau-2026-02-28-12-46-utc,the trial of the chicago 7
+1,488,0.235375,letterboxd-withloveclau-2026-02-28-12-46-utc,"paris, texas"
+1,768,0.188817,letterboxd-withloveclau-2026-02-28-12-46-utc,the substance
+1,869,0.119311,letterboxd-withloveclau-2026-02-28-12-46-utc,x
+1,0,0.238621,letterboxd-withloveclau-2026-02-28-12-46-utc,(500) days of summer
+1,333,0.238621,letterboxd-withloveclau-2026-02-28-12-46-utc,john adams
+1,396,0.190897,letterboxd-withloveclau-2026-02-28-12-46-utc,mamma mia!
+1,125,0.095449,letterboxd-withloveclau-2026-02-28-12-46-utc,carrie
+1,8,0.143173,letterboxd-withloveclau-2026-02-28-12-46-utc,21
+1,828,0.099453,letterboxd-withloveclau-2026-02-28-12-46-utc,uncut gems
+1,451,0.199451,letterboxd-withloveclau-2026-02-28-12-46-utc,nickel boys
+1,874,0.229355,letterboxd-withloveclau-2026-02-28-12-46-utc,young sherlock holmes
+1,854,0.181344,letterboxd-withloveclau-2026-02-28-12-46-utc,when harry met sally...
+1,4,0.131318,letterboxd-withloveclau-2026-02-28-12-46-utc,13 going on 30
+1,525,0.236372,letterboxd-withloveclau-2026-02-28-12-46-utc,reservoir dogs
+1,317,0.236372,letterboxd-withloveclau-2026-02-28-12-46-utc,inglourious basterds
+1,175,0.237021,letterboxd-withloveclau-2026-02-28-12-46-utc,die hard
+1,607,0.217727,letterboxd-withloveclau-2026-02-28-12-46-utc,tangerine
+1,553,0.163295,letterboxd-withloveclau-2026-02-28-12-46-utc,serendipity
+1,108,0.221943,letterboxd-withloveclau-2026-02-28-12-46-utc,bottoms
+1,144,0.223775,letterboxd-withloveclau-2026-02-28-12-46-utc,conclave
+1,849,0.055944,letterboxd-withloveclau-2026-02-28-12-46-utc,we are who we are
+1,447,0.1414,letterboxd-withloveclau-2026-02-28-12-46-utc,nativity!
+1,558,0.285917,letterboxd-withloveclau-2026-02-28-12-46-utc,sherlock: a study in pink
+1,308,0.14493,letterboxd-withloveclau-2026-02-28-12-46-utc,i used to be funny
+1,352,0.232524,letterboxd-withloveclau-2026-02-28-12-46-utc,kneecap
+1,300,0.174872,letterboxd-withloveclau-2026-02-28-12-46-utc,how to lose a guy in 10 days
+1,27,0.116901,letterboxd-withloveclau-2026-02-28-12-46-utc,across the universe
+1,794,0.149364,letterboxd-withloveclau-2026-02-28-12-46-utc,thesis
+1,22,0.240955,letterboxd-withloveclau-2026-02-28-12-46-utc,a real pain
+1,53,0.301194,letterboxd-withloveclau-2026-02-28-12-46-utc,anora
+1,639,0.241616,letterboxd-withloveclau-2026-02-28-12-46-utc,the brutalist
+1,565,0.215508,letterboxd-withloveclau-2026-02-28-12-46-utc,sing sing
+1,449,0.277842,letterboxd-withloveclau-2026-02-28-12-46-utc,neon genesis evangelion: the end of evangelion
+1,138,0.124846,letterboxd-withloveclau-2026-02-28-12-46-utc,climax
+1,200,0.032166,letterboxd-withloveclau-2026-02-28-12-46-utc,emilia pérez
+1,16,0.331506,letterboxd-withloveclau-2026-02-28-12-46-utc,a complete unknown
+1,309,0.299174,letterboxd-withloveclau-2026-02-28-12-46-utc,i'm still here
+1,241,0.271082,letterboxd-withloveclau-2026-02-28-12-46-utc,flow
+1,224,0.171763,letterboxd-withloveclau-2026-02-28-12-46-utc,fantastic beasts: the secrets of dumbledore
+1,699,0.206681,letterboxd-withloveclau-2026-02-28-12-46-utc,the intern
+1,464,0.241789,letterboxd-withloveclau-2026-02-28-12-46-utc,now you see me
+1,690,0.280142,letterboxd-withloveclau-2026-02-28-12-46-utc,the hunger games
+1,691,0.280142,letterboxd-withloveclau-2026-02-28-12-46-utc,the hunger games: catching fire
+1,168,0.210107,letterboxd-withloveclau-2026-02-28-12-46-utc,deconstructing harry
+1,692,0.210107,letterboxd-withloveclau-2026-02-28-12-46-utc,the hunger games: mockingjay – part 1
+1,445,0.280911,letterboxd-withloveclau-2026-02-28-12-46-utc,mystic river
+1,693,0.175569,letterboxd-withloveclau-2026-02-28-12-46-utc,the hunger games: mockingjay – part 2
+1,266,0.216535,letterboxd-withloveclau-2026-02-28-12-46-utc,good omens
+1,811,0.301651,letterboxd-withloveclau-2026-02-28-12-46-utc,train to busan
+1,351,0.077084,letterboxd-withloveclau-2026-02-28-12-46-utc,klute
+1,251,0.15459,letterboxd-withloveclau-2026-02-28-12-46-utc,game night
+1,490,0.273514,letterboxd-withloveclau-2026-02-28-12-46-utc,paterson
+1,780,0.314305,letterboxd-withloveclau-2026-02-28-12-46-utc,the umbrellas of cherbourg
+1,789,0.36044,letterboxd-withloveclau-2026-02-28-12-46-utc,the young girls of rochefort
+1,234,0.258035,letterboxd-withloveclau-2026-02-28-12-46-utc,final destination
+1,120,0.219794,letterboxd-withloveclau-2026-02-28-12-46-utc,camp rock
+1,742,0.308556,letterboxd-withloveclau-2026-02-28-12-46-utc,the phoenician scheme
+1,430,0.3215,letterboxd-withloveclau-2026-02-28-12-46-utc,moneyball
+1,531,0.229643,letterboxd-withloveclau-2026-02-28-12-46-utc,ruby sparks
+1,424,0.184218,letterboxd-withloveclau-2026-02-28-12-46-utc,miss congeniality
+1,116,0.280139,letterboxd-withloveclau-2026-02-28-12-46-utc,bullet train
+1,598,0.29836,letterboxd-withloveclau-2026-02-28-12-46-utc,superman
+1,249,0.202758,letterboxd-withloveclau-2026-02-28-12-46-utc,funny games
+1,498,0.458712,letterboxd-withloveclau-2026-02-28-12-46-utc,ponyo
+1,443,0.153323,letterboxd-withloveclau-2026-02-28-12-46-utc,my oxford year
+1,362,0.515296,letterboxd-withloveclau-2026-02-28-12-46-utc,la haine
+1,360,0.465039,letterboxd-withloveclau-2026-02-28-12-46-utc,la chinoise
+1,140,0.373786,letterboxd-withloveclau-2026-02-28-12-46-utc,coherence
+1,735,0.107973,letterboxd-withloveclau-2026-02-28-12-46-utc,the notebook
+1,355,0.325698,letterboxd-withloveclau-2026-02-28-12-46-utc,kpop demon hunters
+1,597,0.273655,letterboxd-withloveclau-2026-02-28-12-46-utc,superbad
+1,470,0.273655,letterboxd-withloveclau-2026-02-28-12-46-utc,"oh, hi!"
+1,775,0.223163,letterboxd-withloveclau-2026-02-28-12-46-utc,the thursday murder club
+1,193,0.398097,letterboxd-withloveclau-2026-02-28-12-46-utc,eddington
+1,473,0.472758,letterboxd-withloveclau-2026-02-28-12-46-utc,one battle after another
+1,43,0.491244,letterboxd-withloveclau-2026-02-28-12-46-utc,all the president's men
+1,873,0.249693,letterboxd-withloveclau-2026-02-28-12-46-utc,you again
+1,590,0.445424,letterboxd-withloveclau-2026-02-28-12-46-utc,springsteen: deliver me from nowhere
+1,165,0.638065,letterboxd-withloveclau-2026-02-28-12-46-utc,dear diary
+1,247,0.332417,letterboxd-withloveclau-2026-02-28-12-46-utc,frankenstein
+1,714,0.473097,letterboxd-withloveclau-2026-02-28-12-46-utc,the long walk
+1,537,0.428351,letterboxd-withloveclau-2026-02-28-12-46-utc,saturday night
+1,552,0.721785,letterboxd-withloveclau-2026-02-28-12-46-utc,sentimental value
+1,54,0.66765,letterboxd-withloveclau-2026-02-28-12-46-utc,another round
+1,560,0.604958,letterboxd-withloveclau-2026-02-28-12-46-utc,shoplifters
+1,673,0.758273,letterboxd-withloveclau-2026-02-28-12-46-utc,the grand budapest hotel
+1,465,0.228732,letterboxd-withloveclau-2026-02-28-12-46-utc,now you see me: now you don't
+1,728,0.38542,letterboxd-withloveclau-2026-02-28-12-46-utc,the naked gun
+1,115,0.544042,letterboxd-withloveclau-2026-02-28-12-46-utc,bugonia
+1,858,0.396126,letterboxd-withloveclau-2026-02-28-12-46-utc,wicked
+1,850,0.238981,letterboxd-withloveclau-2026-02-28-12-46-utc,we're all going to the world's fair
+1,126,0.639032,letterboxd-withloveclau-2026-02-28-12-46-utc,catch me if you can
+1,878,0.480589,letterboxd-withloveclau-2026-02-28-12-46-utc,zodiac killer project
+1,802,0.649623,letterboxd-withloveclau-2026-02-28-12-46-utc,"tick, tick... boom!"
+1,569,0.57626,letterboxd-withloveclau-2026-02-28-12-46-utc,sirāt
+1,276,0.66584,letterboxd-withloveclau-2026-02-28-12-46-utc,hamnet
+1,568,0.667667,letterboxd-withloveclau-2026-02-28-12-46-utc,sinners
+1,524,0.593892,letterboxd-withloveclau-2026-02-28-12-46-utc,rent
+1,176,0.339367,letterboxd-withloveclau-2026-02-28-12-46-utc,die my love
+1,440,0.50905,letterboxd-withloveclau-2026-02-28-12-46-utc,moulin rouge!
+1,220,0.510446,letterboxd-withloveclau-2026-02-28-12-46-utc,f1
+1,111,0.510446,letterboxd-withloveclau-2026-02-28-12-46-utc,bridget jones's diary
+1,358,0.085542,letterboxd-withloveclau-2026-02-28-12-46-utc,l'eclisse
+1,28,0.086248,letterboxd-withloveclau-2026-02-28-12-46-utc,ad astra
+1,101,0.259453,letterboxd-withloveclau-2026-02-28-12-46-utc,blow-up
+1,456,0.607052,letterboxd-withloveclau-2026-02-28-12-46-utc,no other choice
+1,179,0.34975,letterboxd-withloveclau-2026-02-28-12-46-utc,dodes'ka-den
+1,753,0.353604,letterboxd-withloveclau-2026-02-28-12-46-utc,the secret agent
+1,404,0.891305,letterboxd-withloveclau-2026-02-28-12-46-utc,marty supreme

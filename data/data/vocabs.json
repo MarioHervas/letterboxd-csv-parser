@@ -1,0 +1,28 @@
+{
+  "nanogenre_vocab": {},
+  "theme_vocab": {},
+  "genre_vocab": {
+    "Comedy": 0,
+    "Drama": 1,
+    "Romance": 2,
+    "Crime": 3,
+    "Horror": 4,
+    "Fantasy": 5,
+    "War": 6,
+    "History": 7,
+    "Science Fiction": 8,
+    "Mystery": 9,
+    "Adventure": 10,
+    "Thriller": 11,
+    "Action": 12,
+    "Music": 13,
+    "Documentary": 14,
+    "Animation": 15,
+    "Family": 16,
+    "TV Movie": 17,
+    "Western": 18
+  },
+  "nanogenre_size": 0,
+  "theme_size": 0,
+  "genre_size": 19
+}
